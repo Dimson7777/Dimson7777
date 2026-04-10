@@ -1,91 +1,122 @@
 # 👋 Hi, I'm Dimitrije
 
-Full-stack engineer with hands-on experience building scalable SaaS applications, payment systems, and modern web platforms.  
-Experienced in delivering production-ready features, optimizing performance, and working across the full development lifecycle.
+I'm a full-stack enginner focused on building modern web applications with real-world functionality, clean architecture, and strong user experience.
+
+I enjoy working across the entire stack — from designing responsive frontends to building scalable backend systems, APIs, and authentication flows.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Do
+
+* Build full-stack web applications (React / Next.js / Node.js)
+* Develop SaaS-style products with real-world features
+* Work with authentication, APIs, and databases
+* Focus on performance, scalability, and clean code
+* Turn ideas into working, production-like applications
+
+---
+
+## 💼 Experience
+
+### Full Stack Engineer — TokenFlow
+
+**Jan 2025 – Present**
+
+* Built and maintained production-ready web applications
+* Developed full-stack features across frontend, backend, and database
+* Implemented secure authentication and API integrations
+* Worked on scalable architecture and performance optimization
+* Delivered real-world SaaS solutions in a fast-paced environment
+
+---
+
+## 🧠 Projects
+
+### 🚀 DevCircle — Developer Social Platform
+
+A full-stack social networking application built for developers to share ideas, connect, and interact.
+
+* Authentication with clean session handling (no email confirmation)
+* Posts, likes, comments, follow system
+* Global & personalized feeds
+* Explore page with suggested users and trending content
+* Responsive and modern UI
+
+👉 Live: https://synapse-dev-network.lovable.app
+👉 Code: https://github.com/Dimson7777/synapse-dev-network
+
+---
 
 ### 💳 SaaS Invoicing App (Stripe)
-https://invoiceflow-play.lovable.app/
 
-- Built a full-stack SaaS platform with subscription-based payments
-- Implemented Stripe Checkout, billing logic, and webhook handling
-- Designed analytics dashboard with real-time invoice tracking
-- Developed role-based access control (Free vs Pro users)
-- Focused on scalability, security, and clean architecture
+A full-stack SaaS platform for managing invoices and subscription payments.
+
+* Stripe integration (payments, subscriptions, webhooks)
+* User dashboard with analytics
+* Role-based access (Free vs Pro)
+* Secure API and billing logic
 
 ---
 
 ### 🤖 AI Project Planner
-https://project-spark-ai-80.lovable.app/
 
-- Developed AI-powered task generation and planning system
-- Built with modern React architecture and reusable components
-- Implemented workflow automation and productivity features
-- Optimized UX for fast and intuitive user interaction
+An AI-powered tool for generating tasks and organizing project workflows.
+
+* Smart task generation
+* Clean and intuitive UI
+* Focus on productivity and automation
+* Built with modern React architecture
 
 ---
 
 ### 💪 Fitness Web App
-https://sculpt-stack-store.lovable.app/
 
-- Designed clean, responsive, and mobile-first UI
-- Focused on modern UX patterns and performance
-- Built scalable frontend architecture using reusable components
+A responsive web application focused on UI/UX and performance.
+
+* Mobile-first design
+* Clean layout and reusable components
+* Focus on speed and user experience
 
 ---
 
 ## 🛠 Tech Stack
 
-- JavaScript / TypeScript
-- React / Next.js
-- Node.js / Express
-- PostgreSQL
-- Supabase
-- Tailwind CSS
-- Stripe API
-- REST APIs
-- Git
+* JavaScript / TypeScript
+* React / Next.js
+* Node.js
+* PostgreSQL
+* Supabase
+* Tailwind CSS
+* Stripe API
+* REST APIs
+* Git & GitHub
 
 ---
 
-## 💼 Professional Experience
+## 🎯 Focus
 
-### Full Stack Engineer — TokenFlow  
-**Jan 2025 – Present**
-
-- Developed and maintained production-grade web applications
-- Built end-to-end features across frontend, backend, and database layers
-- Implemented secure authentication, API flows, and role-based access systems
-- Integrated third-party services including payment systems and external APIs
-- Collaborated on scalable architecture and performance optimization
-- Worked in fast-paced environment delivering real-world SaaS solutions
-
----
-
-## 💳 Payments & SaaS Expertise
-
-- Stripe API (Checkout, Subscriptions, Webhooks)
-- SaaS architecture (Free vs Pro models)
-- Authentication & protected routes
-- Dashboard systems & analytics
-- API design and integration
+* Building real-world SaaS products
+* Writing clean, maintainable code
+* Creating scalable and performant applications
+* Improving UX through thoughtful design
 
 ---
 
 ## 📬 Contact
 
-- Email: dimibukejlovic@icloud.com
-- GitHub: https://github.com/Dimson7777
+* GitHub: https://github.com/Dimson7777
+* Email: dimibukejlovic@icloud.com
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-- Focused on building real-world SaaS products
-- Strong problem-solving mindset
-- Fast learner with high ownership
-- Comfortable working independently and in teams
-- Open to remote opportunities
+* Fast learner and problem solver
+* Comfortable working independently and in teams
+* Focused on real results, not just demos
+* Open to remote opportunities
+
+---
+
+🚀 Always building, improving, and learning.
+
