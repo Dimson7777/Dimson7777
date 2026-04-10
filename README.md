@@ -55,7 +55,7 @@ A full-stack SaaS platform for managing invoices and subscription payments.
 * User dashboard with analytics
 * Role-based access (Free vs Pro)
 * Secure API and billing logic
-
+👉 Live:https://invoiceflow-play.lovable.app/
 ---
 
 ### 🤖 AI Project Planner
@@ -66,7 +66,7 @@ An AI-powered tool for generating tasks and organizing project workflows.
 * Clean and intuitive UI
 * Focus on productivity and automation
 * Built with modern React architecture
-
+👉 Live:https://project-spark-ai-80.lovable.app/
 ---
 
 ### 💪 Fitness Web App
@@ -76,7 +76,7 @@ A responsive web application focused on UI/UX and performance.
 * Mobile-first design
 * Clean layout and reusable components
 * Focus on speed and user experience
-
+👉 Live:https://sculpt-stack-store.lovable.app/
 ---
 
 ## 🛠 Tech Stack
