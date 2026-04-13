@@ -20,7 +20,7 @@ I enjoy working across the entire stack — from designing responsive frontends 
 
 ### Full Stack Engineer — TokenFlow
 
-**Jan 2025 – Present**
+**February 2025 – Present**
 
 * Built and maintained production-ready web applications
 * Developed full-stack features across frontend, backend, and database
