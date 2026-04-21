@@ -1,96 +1,126 @@
-👋 Hi, I'm Dimitrije
+## Hi, I'm Dimitrije 👋
 
 Full-Stack Engineer focused on building scalable, production-ready web applications with clean architecture and strong performance.
 
 I work across the full stack — from modern frontend interfaces to backend systems, APIs, and real-world SaaS products.
 
-💼 Experience
-Full Stack Engineer — TokenFlow
+---
 
-Feb 2025 — Present
+## 💼 Experience
 
-Building and maintaining production-ready applications
-Delivering end-to-end features across frontend, backend, and database
-Designing secure authentication systems and APIs
-Improving performance and scalability
-Contributing to system architecture and SaaS features
-Full Stack Developer — Freelance
+### Full Stack Engineer — TokenFlow  
+**Feb 2025 — Present**
 
-Feb 2023 — Feb 2025
+- Building and maintaining production-ready applications  
+- Delivering end-to-end features across frontend, backend, and database  
+- Designing secure authentication systems and APIs  
+- Improving performance and scalability  
+- Contributing to system architecture and SaaS features  
 
-Delivered 10+ full-stack applications from idea to deployment
-Worked directly with clients and real-world requirements
-Built scalable systems with focus on performance and UX
-Managed full development lifecycle independently
-🚀 Projects
-Sync — Real-Time Collaboration Platform
+---
 
+### Full Stack Developer — Freelance  
+**Feb 2023 — Feb 2025**
+
+- Delivered 10+ full-stack applications from idea to deployment  
+- Worked directly with clients and real-world requirements  
+- Built scalable systems with focus on performance and UX  
+- Managed full development lifecycle independently  
+
+---
+
+## 🚀 Projects
+
+### 🧠 Projects Sync — Real-Time Collaboration Platform
 Modern workspace for teams with real-time collaboration.
 
-Real-time presence and live cursors
-Multi-user rooms with isolated sessions
-Built-in chat and shared editing
-Auto-save and version history
+- Real-time presence & live cursors  
+- Multi-user rooms with isolated sessions  
+- Built-in chat and shared editing  
+- Auto-save & version history  
 
-Live: https://nextsynic.lovable.app/
+🔗 Live: https://nextsync.lovable.app/
 
-Personal Portfolio Website
+---
 
+### 🌐 Personal Portfolio Website
 Clean and modern portfolio showcasing projects and experience.
 
-Responsive design
-Optimized performance
-Project showcase with live demos
+- Responsive design  
+- Optimized performance  
+- Live project demos  
 
-Live: https://dimitrijeswebsite.lovable.app
+🔗 Live: https://dimitrijeswebsite.lovable.app/
 
-DevCircle — Developer Social Platform
-Authentication and session handling
-Posts, likes, comments, follow system
-Global and personalized feeds
-Responsive UI
+---
 
-Live: https://synapse-dev-network.lovable.app/
+### 👥 DevCircle — Developer Social Platform
 
-Code: https://github.com/Dimson7777/synapse-dev-network
+- Authentication & session handling  
+- Posts, likes, comments, follow system  
+- Global & personalized feeds  
+- Responsive UI  
 
-SaaS Invoicing App (Stripe)
-Stripe payments and subscriptions
-Dashboard with analytics
-Role-based access control
-Secure billing logic
+🔗 Live: https://synapse-dev-network.lovable.app/  
+💻 Code: https://github.com/Dimson7777/synapse-dev-network
 
-Live: https://invoiceflow-play.lovable.app/
+---
 
-AI Project Planner
-AI-powered task generation
-Workflow organization
-Clean and intuitive UI
+### 💳 SaaS Invoicing App (Stripe)
 
-Live: https://project-spark-ai-80.lovable.app/
+- Stripe payments & subscriptions  
+- Dashboard with analytics  
+- Role-based access control  
+- Secure billing logic  
 
-Fitness Web App
-Mobile-first design
-Reusable components
-Optimized for performance
+🔗 Live: https://invoiceflow-play.lovable.app/
 
-Live: https://sculpt-stack-store.lovable.app/
+---
 
-🛠 Tech Stack
+### 🤖 AI Project Planner
 
-JavaScript / TypeScript
-React / Next.js
-Node.js / Express
-PostgreSQL / Supabase
-Stripe API
-REST APIs
-Tailwind CSS
-Git & GitHub
+- AI-powered task generation  
+- Workflow organization  
+- Clean and intuitive UI  
 
-📫 Contact
+🔗 Live: https://project-spark-ai-80.lovable.app/
 
-Portfolio: https://dimitrijeswebsite.lovable.app
+---
 
-GitHub: https://github.com/Dimson7777
+### 🏋️ Fitness Web App
 
-Email: dimibukejlovic@icloud.com
+- Mobile-first design  
+- Reusable components  
+- Optimized performance  
+
+🔗 Live: https://sculpt-stack-store.lovable.app/
+
+---
+
+## 🛠 Tech Stack
+
+- JavaScript / TypeScript  
+- React / Next.js  
+- Node.js / Express  
+- PostgreSQL / Supabase  
+- Stripe API  
+- REST APIs  
+- Tailwind CSS  
+- Git & GitHub  
+
+---
+
+## 📫 Contact
+
+🌐 Portfolio: https://dimitrijeswebsite.lovable.app  
+💻 GitHub: https://github.com/Dimson7777  
+📧 Email: dimibukejlovic@icloud.com  
+
+---
+
+## ⚡ About Me
+
+I focus on building real-world SaaS products, not just demo projects.  
+I care about clean code, performance, and user experience.
+
+Always open to remote opportunities and new challenges.
