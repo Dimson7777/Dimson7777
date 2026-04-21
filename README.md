@@ -1,103 +1,96 @@
 👋 Hi, I'm Dimitrije
 
-Full-Stack Engineer building scalable SaaS products, real-time systems, and modern web applications.
+Full-Stack Engineer focused on building scalable, production-ready web applications with clean architecture and strong performance.
 
-I focus on clean architecture, performance, and delivering production-ready solutions end-to-end.
+I work across the full stack — from modern frontend interfaces to backend systems, APIs, and real-world SaaS products.
 
 💼 Experience
 Full Stack Engineer — TokenFlow
 
 Feb 2025 — Present
 
-Building and maintaining production-grade web applications
+Building and maintaining production-ready applications
 Delivering end-to-end features across frontend, backend, and database
-Designing secure authentication systems and scalable APIs
-Improving performance and optimizing core modules
-Contributing to system architecture and SaaS feature delivery
+Designing secure authentication systems and APIs
+Improving performance and scalability
+Contributing to system architecture and SaaS features
 Full Stack Developer — Freelance
 
 Feb 2023 — Feb 2025
 
-Delivered 10+ full-stack applications from idea to production
-Worked directly with clients to define requirements and ship solutions
-Built scalable systems focused on performance and UX
-Managed complete development lifecycle independently
-Consistently delivered production-ready applications
+Delivered 10+ full-stack applications from idea to deployment
+Worked directly with clients and real-world requirements
+Built scalable systems with focus on performance and UX
+Managed full development lifecycle independently
 🚀 Projects
-🔥 Sync — Real-Time Collaboration Platform
+Sync — Real-Time Collaboration Platform
 
-Modern workspace for teams (Notion/Slack inspired).
+Modern workspace for teams with real-time collaboration.
 
-Real-time collaboration with live presence & cursors
-Multi-user rooms with fully isolated sessions
+Real-time presence and live cursors
+Multi-user rooms with isolated sessions
 Built-in chat and shared editing
 Auto-save and version history
-Scalable real-time architecture
 
-🔗 https://nextsynic.lovable.app/
+Live: https://nextsynic.lovable.app/
 
-🌐 Personal Portfolio Website
+Personal Portfolio Website
 
-Professional portfolio showcasing projects and experience.
+Clean and modern portfolio showcasing projects and experience.
 
-Clean modern UI
-Fully responsive design
-Fast performance
+Responsive design
+Optimized performance
 Project showcase with live demos
 
-🔗 https://dimitrijeswebsite.lovable.app
+Live: https://dimitrijeswebsite.lovable.app
 
-🚀 DevCircle — Developer Social Platform
-Authentication & session handling
+DevCircle — Developer Social Platform
+Authentication and session handling
 Posts, likes, comments, follow system
-Global & personalized feeds
-Explore page with trending content
-Responsive modern UI
+Global and personalized feeds
+Responsive UI
 
-🔗 https://synapse-dev-network.lovable.app/
+Live: https://synapse-dev-network.lovable.app/
 
-💻 https://github.com/Dimson7777/synapse-dev-network
+Code: https://github.com/Dimson7777/synapse-dev-network
 
-💳 SaaS Invoicing App (Stripe)
-Stripe subscriptions, payments, webhooks
+SaaS Invoicing App (Stripe)
+Stripe payments and subscriptions
 Dashboard with analytics
-Role-based access (Free vs Pro)
+Role-based access control
 Secure billing logic
 
-🔗 https://invoiceflow-play.lovable.app/
+Live: https://invoiceflow-play.lovable.app/
 
-🤖 AI Project Planner
-AI task generation
+AI Project Planner
+AI-powered task generation
 Workflow organization
-Clean UI
-React-based architecture
+Clean and intuitive UI
 
-🔗 https://project-spark-ai-80.lovable.app/
+Live: https://project-spark-ai-80.lovable.app/
 
-💪 Fitness Web App
+Fitness Web App
 Mobile-first design
 Reusable components
-Optimized performance
+Optimized for performance
 
-🔗 https://sculpt-stack-store.lovable.app/
+Live: https://sculpt-stack-store.lovable.app/
 
 🛠 Tech Stack
 
-Frontend: React, Next.js, TypeScript
-Backend: Node.js, Express
-Database: PostgreSQL, Supabase
-Other: Stripe API, REST APIs, Tailwind CSS
-Tools: Git, GitHub
+JavaScript / TypeScript
+React / Next.js
+Node.js / Express
+PostgreSQL / Supabase
+Stripe API
+REST APIs
+Tailwind CSS
+Git & GitHub
 
-🎯 Focus
-Building real-world SaaS products
-Scalable and maintainable systems
-Clean architecture & performance
-High-quality user experience
 📫 Contact
 
-🌐 https://dimitrijeswebsite.lovable.app
+Portfolio: https://dimitrijeswebsite.lovable.app
 
-💻 https://github.com/Dimson7777
+GitHub: https://github.com/Dimson7777
 
-📧 dimibukejlovic@icloud.com
+Email: dimibukejlovic@icloud.com
