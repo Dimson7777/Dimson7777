@@ -1,133 +1,101 @@
-# 👋 Hi, I'm Dimitrije
+👋 Hi, I'm Dimitrije
 
-Full-Stack Engineer focused on building scalable, production-ready web applications with clean architecture, strong performance, and excellent user experience.
+Full-Stack Engineer focused on building scalable, production-ready web applications with clean architecture, strong performance, and seamless user experience.
 
-I work across the entire stack — from designing modern, responsive frontends to building robust backend systems, APIs, authentication flows, and real-world SaaS features.
+I work across the full stack — from modern frontend interfaces to backend systems, APIs, authentication flows, and real-world SaaS products.
 
----
+💼 Experience
+Full Stack Engineer — TokenFlow
 
-## 🚀 What I Do
+Feb 2025 — Present
 
-- Build full-stack applications (React / Next.js / Node.js)
-- Develop SaaS products with real-world functionality
-- Design and integrate REST APIs
-- Work with authentication, payments, and databases
-- Focus on performance, scalability, and clean code
-- Turn ideas into production-ready solutions
+Building and maintaining production-ready web applications
+Delivering end-to-end features across frontend, backend, and database layers
+Designing secure authentication systems and API architectures
+Improving performance and scalability of core application modules
+Contributing to system design and SaaS feature development
+Full Stack Developer — Freelance
 
----
+Feb 2023 — Feb 2025
 
-## 💼 Experience
+Delivered 10+ full-stack applications from idea to deployment
+Worked directly with clients to define requirements and deliver solutions
+Built scalable and maintainable systems with focus on UX and performance
+Managed complete development lifecycle independently
+Consistently shipped high-quality production-ready applications
+🚀 Projects
+🔥 Sync — Real-Time Collaboration Platform
 
-### Full Stack Engineer — TokenFlow  
-**Feb 2025 – Present**
+Modern collaborative workspace for teams to work together in real time.
 
-- Built and maintained production-ready web applications used in real environments  
-- Developed end-to-end features across frontend, backend, and database layers  
-- Implemented secure authentication systems and API integrations  
-- Improved application performance and scalability across core modules  
-- Collaborated on system architecture and delivered SaaS features in a fast-paced environment  
+Real-time collaboration with live presence & cursors
+Multi-user rooms with fully isolated user sessions
+Built-in chat and shared editing experience
+Auto-save and version history system
+Scalable real-time architecture
 
----
+🔗 Live: https://nextsynic.lovable.app/
 
-### Freelance Full-Stack Developer (Personal Clients)  
-**Dec 2023 – Feb 2025**
+🌐 Personal Portfolio Website
 
-- Delivered 10+ full-stack applications from idea to deployment  
-- Worked directly with clients to understand requirements and deliver tailored solutions  
-- Built scalable and maintainable systems with focus on performance and UX  
-- Managed complete development lifecycle independently  
-- Consistently delivered high-quality solutions in fast-paced environments  
+Professional portfolio website showcasing projects, experience, and skills.
 
----
+Clean, modern UI focused on presentation
+Fully responsive design
+Project showcase with live demos
+Optimized for performance and user experience
 
-## 🧠 Projects
+🔗 Live: https://dimitrijeswebsite.lovable.app
 
-### 🚀 DevCircle — Developer Social Platform  
-A full-stack social network for developers to connect, share ideas, and collaborate.
+🚀 DevCircle — Developer Social Platform
+Authentication & session handling
+Posts, likes, comments, follow system
+Global and personalized feeds
+Explore page with trending content
+Modern, responsive UI
 
-- Authentication & session handling  
-- Posts, likes, comments, follow system  
-- Global and personalized feeds  
-- Explore page with trending content  
-- Modern, responsive UI  
+🔗 Live: https://synapse-dev-network.lovable.app/
 
-🔗 Live: https://synapse-dev-network.lovable.app  
-💻 Code: https://github.com/Dimson7777/synapse-dev-network  
+💻 Code: https://github.com/Dimson7777/synapse-dev-network
 
----
+💳 SaaS Invoicing App (Stripe)
+Stripe integration (payments, subscriptions, webhooks)
+User dashboard with analytics
+Role-based access control (Free vs Pro)
+Secure API and billing logic
 
-### 💳 SaaS Invoicing App (Stripe)  
-A full-stack SaaS platform for managing invoices and subscription payments.
+🔗 Live: https://invoiceflow-play.lovable.app/
 
-- Stripe integration (payments, subscriptions, webhooks)  
-- User dashboard with analytics  
-- Role-based access control (Free vs Pro)  
-- Secure API and billing logic  
+🤖 AI Project Planner
+Smart task generation
+Clean and intuitive UI
+Focus on productivity and automation
+Built with modern React architecture
 
-🔗 Live: https://invoiceflow-play.lovable.app/  
+🔗 Live: https://project-spark-ai-80.lovable.app/
 
----
+💪 Fitness Web App
+Mobile-first design
+Clean and reusable components
+Optimized for speed and usability
 
-### 🤖 AI Project Planner  
-AI-powered tool for generating tasks and organizing workflows.
+🔗 Live: https://sculpt-stack-store.lovable.app/
 
-- Smart task generation  
-- Clean and intuitive UI  
-- Focus on productivity and automation  
-- Built with modern React architecture  
-
-🔗 Live: https://project-spark-ai-80.lovable.app/  
-
----
-
-### 💪 Fitness Web App  
-Responsive web application focused on performance and user experience.
-
-- Mobile-first design  
-- Clean and reusable components  
-- Optimized for speed and usability  
-
-🔗 Live: https://sculpt-stack-store.lovable.app/  
-
----
-
-## 🛠 Tech Stack
-
-- JavaScript / TypeScript  
-- React / Next.js  
-- Node.js  
-- PostgreSQL / Supabase  
-- Tailwind CSS  
-- Stripe API  
-- REST APIs  
-- Git & GitHub  
-
----
-
-## 🎯 Focus
-
-- Building real-world SaaS products  
-- Writing clean, maintainable code  
-- Creating scalable and high-performance systems  
-- Improving user experience through thoughtful design  
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/Dimson7777  
-- Email: dimibukejlovic@icloud.com  
-
----
-
-## ⚡ About Me
-
-- Fast learner with strong problem-solving mindset  
-- Comfortable working independently and in teams  
-- Focused on real results and production-ready solutions  
-- Open to remote opportunities  
-
----
-
-🚀 Always building, improving, and learning.
+🛠 Tech Stack
+JavaScript / TypeScript
+React / Next.js
+Node.js / Express
+PostgreSQL / Supabase
+Stripe API
+REST APIs
+Tailwind CSS
+Git & GitHub
+🎯 Focus
+Building real-world SaaS products
+Clean, maintainable code
+Scalable architecture
+High-quality user experience
+📫 Contact
+🌐 Portfolio: https://dimitrijeswebsite.lovable.app
+GitHub: https://github.com/Dimson7777
+Email: dimibukejlovic@icloud.com
