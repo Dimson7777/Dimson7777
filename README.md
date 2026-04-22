@@ -39,7 +39,7 @@ Modern workspace for teams with real-time collaboration.
 - Built-in chat and shared editing  
 - Auto-save & version history  
 
-🔗 Live: https://nextsync.lovable.app/
+🔗 Live: https://nextsynic.lovable.app
 
 ---
 
