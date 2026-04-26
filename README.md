@@ -1,126 +1,128 @@
 ## Hi, I'm Dimitrije 👋
 
-Full-Stack Engineer focused on building scalable, production-ready web applications with clean architecture and strong performance.
+Full-Stack Engineer focused on building scalable, production-ready SaaS applications with clean architecture, secure systems, and strong performance.
 
-I work across the full stack — from modern frontend interfaces to backend systems, APIs, and real-world SaaS products.
-
----
-
-## 💼 Experience
-
-### Full Stack Engineer — TokenFlow  
-**Feb 2025 — Present**
-
-- Building and maintaining production-ready applications  
-- Delivering end-to-end features across frontend, backend, and database  
-- Designing secure authentication systems and APIs  
-- Improving performance and scalability  
-- Contributing to system architecture and SaaS features  
+I build real-world products — from frontend UI to backend systems, authentication, payments, and deployment.
 
 ---
 
-### Full Stack Developer — Freelance  
-**Feb 2023 — Feb 2025**
+### 🚀 Experience
 
-- Delivered 10+ full-stack applications from idea to deployment  
-- Worked directly with clients and real-world requirements  
-- Built scalable systems with focus on performance and UX  
-- Managed full development lifecycle independently  
+**Full Stack Engineer — TokenFlow**
+*Feb 2025 — Present*
 
----
+* Building and maintaining production-ready SaaS applications
+* Delivering end-to-end features across frontend, backend, and database
+* Designing authentication flows and secure API systems
+* Improving performance, scalability, and system reliability
+* Contributing to architecture and product decisions
 
-## 🚀 Projects
+**Full Stack Developer — Freelance / Personal Clients**
+*Feb 2023 — Feb 2025*
 
-### 🧠 Projects Sync — Real-Time Collaboration Platform
-Modern workspace for teams with real-time collaboration.
-
-- Real-time presence & live cursors  
-- Multi-user rooms with isolated sessions  
-- Built-in chat and shared editing  
-- Auto-save & version history  
-
-🔗 Live: https://nextsynic.lovable.app
+* Delivered 10+ full-stack applications from idea to deployment
+* Worked directly with clients on real-world requirements
+* Built scalable systems with focus on performance and UX
+* Managed full development lifecycle independently
 
 ---
 
-### 🌐 Personal Portfolio Website
-Clean and modern portfolio showcasing projects and experience.
+### 🧠 Featured Projects
 
-- Responsive design  
-- Optimized performance  
-- Live project demos  
+**🔹 Briefly — SaaS Workspace App (NEW)**
 
-🔗 Live: https://dimitrijeswebsite.lovable.app/
-
----
-
-### 👥 DevCircle — Developer Social Platform
-
-- Authentication & session handling  
-- Posts, likes, comments, follow system  
-- Global & personalized feeds  
-- Responsive UI  
-
-🔗 Live: https://synapse-dev-network.lovable.app/  
-💻 Code: https://github.com/Dimson7777/synapse-dev-network
+* Full authentication system (Supabase)
+* Secure login / signup flows
+* Production deployment (Netlify)
+* Clean architecture & environment config handling
+  👉 Live: https://briefly-app1.netlify.app
 
 ---
 
-### 💳 SaaS Invoicing App (Stripe)
+**🔹 SaaS Invoicing Platform (Stripe Integration)**
 
-- Stripe payments & subscriptions  
-- Dashboard with analytics  
-- Role-based access control  
-- Secure billing logic  
-
-🔗 Live: https://invoiceflow-play.lovable.app/
-
----
-
-### 🤖 AI Project Planner
-
-- AI-powered task generation  
-- Workflow organization  
-- Clean and intuitive UI  
-
-🔗 Live: https://project-spark-ai-80.lovable.app/
+* Subscription system with billing logic
+* Secure authentication & role-based access
+* Dashboard with analytics
+* Real SaaS architecture
+  👉 Live: https://invoiceflow-play.lovable.app/
 
 ---
 
-### 🏋️ Fitness Web App
+**🔹 DevCircle — Developer Social Platform**
 
-- Mobile-first design  
-- Reusable components  
-- Optimized performance  
-
-🔗 Live: https://sculpt-stack-store.lovable.app/
-
----
-
-## 🛠 Tech Stack
-
-- JavaScript / TypeScript  
-- React / Next.js  
-- Node.js / Express  
-- PostgreSQL / Supabase  
-- Stripe API  
-- REST APIs  
-- Tailwind CSS  
-- Git & GitHub  
+* Authentication & session management
+* Posts, likes, comments, follow system
+* Global & personalized feeds
+* Responsive UI
+  👉 Live: https://synapse-dev-network.lovable.app/
+  👉 Code: https://github.com/Dimson7777/synapse-dev-network
 
 ---
 
-## 📫 Contact
+**🔹 AI Project Planner**
 
-🌐 Portfolio: https://dimitrijeswebsite.lovable.app  
-💻 GitHub: https://github.com/Dimson7777  
-📧 Email: dimibukejlovic@icloud.com  
+* AI-powered task and project generation
+* Workflow organization system
+* Clean and intuitive UI
+  👉 Live: https://project-spark-ai-80.lovable.app/
+  👉 Code: https://github.com/Dimson7777/ai-project-planner
 
 ---
 
-## ⚡ About Me
+### ⚡ Additional Projects
 
-I focus on building real-world SaaS products, not just demo projects.  
-I care about clean code, performance, and user experience.
+**🔹 Fitness Web App**
 
-Always open to remote opportunities and new challenges.
+* Mobile-first design
+* Reusable components
+* Optimized performance
+  👉 Live: https://sculpt-stack-store.lovable.app/
+
+---
+
+**🔹 Personal Portfolio Website**
+
+* Clean and modern UI
+* Optimized performance
+* Live project showcase
+  👉 Live: https://dimitrijeswebsite.lovable.app
+
+---
+
+### ⚙️ Tech Stack
+
+* **Frontend:** React, Next.js, TypeScript, Tailwind
+* **Backend:** Node.js, Express
+* **Database:** PostgreSQL / Supabase
+* **APIs:** RESTful APIs
+* **Payments:** Stripe (subscriptions & billing flows)
+* **Tools:** Git, GitHub, VS Code
+* **AI Dev Tools:** GitHub Copilot, Cursor
+
+---
+
+### 🧩 What I Focus On
+
+* Building real SaaS products (not just demo apps)
+* Clean, scalable architecture
+* Secure authentication & API design
+* Performance and UX optimization
+
+---
+
+### 🌍 Contact
+
+* Portfolio: https://dimitrijeswebsite.lovable.app
+* GitHub: https://github.com/Dimson7777
+* Email: [dimibukejlovic@icloud.com](mailto:dimibukejlovic@icloud.com)
+
+---
+
+### ⚡ About Me
+
+I focus on building real-world SaaS applications with production-level quality.
+I enjoy solving complex problems, improving systems, and shipping fast.
+
+Open to remote opportunities and new challenges.
+
