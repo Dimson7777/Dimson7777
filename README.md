@@ -45,7 +45,7 @@ I build real-world products — from frontend UI to backend systems, authenticat
 * Secure authentication & role-based access
 * Dashboard with analytics
 * Real SaaS architecture
-  👉 Live: https://invoiceflow-play.lovable.app/
+  👉 Live: https://invoiceflow-saas-mu.vercel.app/
 
 ---
 
