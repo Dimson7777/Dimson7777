@@ -47,19 +47,19 @@ https://invoiceflow-saas-mu.vercel.app
 
 ---
 
-### DevCircle — Developer Platform
+### SYNAPSE — Developer Platform
 - Developed authentication and session management system  
 - Designed social features (posts, comments, follows)  
 - Implemented scalable and personalized feed architecture  
-https://synapse-dev-network.lovable.app/  
+https://synapse-dev-network1.vercel.app/
 
 ---
 
-### AI Project Planner
+### SCOPELAB
 - Developed AI-powered task and project generation system  
 - Designed structured workflow organization  
 - Delivered intuitive and clean user experience  
-https://project-spark-ai-80.lovable.app/  
+https://scopelab.vercel.app/
 
 ---
 
@@ -67,7 +67,7 @@ https://project-spark-ai-80.lovable.app/
 - Developed full e-commerce experience with product catalog and cart system  
 - Implemented checkout flow and state management  
 - Optimized UI for performance and responsive design  
-https://sculpt-commerce.vercel.app  
+ https://sculpt-commerce.vercel.app/
 
 ---
 
