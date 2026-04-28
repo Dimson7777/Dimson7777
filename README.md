@@ -1,128 +1,120 @@
-## Hi, I'm Dimitrije 👋
+# Dimitrije Bukejlovic
+Full Stack Engineer — SaaS, Payments & Scalable Systems
 
-Full-Stack Engineer focused on building scalable, production-ready SaaS applications with clean architecture, secure systems, and strong performance.
-
-I build real-world products — from frontend UI to backend systems, authentication, payments, and deployment.
-
----
-
-### 🚀 Experience
-
-**Full Stack Engineer — TokenFlow**
-*Feb 2025 — Present*
-
-* Building and maintaining production-ready SaaS applications
-* Delivering end-to-end features across frontend, backend, and database
-* Designing authentication flows and secure API systems
-* Improving performance, scalability, and system reliability
-* Contributing to architecture and product decisions
-
-**Full Stack Developer — Freelance / Personal Clients**
-*Feb 2023 — Feb 2025*
-
-* Delivered 10+ full-stack applications from idea to deployment
-* Worked directly with clients on real-world requirements
-* Built scalable systems with focus on performance and UX
-* Managed full development lifecycle independently
+I design, develop, and deliver production-grade applications with a strong focus on performance, scalability, and clean architecture.
 
 ---
 
-### 🧠 Featured Projects
+## 💼 Experience
 
-**🔹 Briefly — SaaS Workspace App (NEW)**
+### Full Stack Engineer — TokenFlow  
+Feb 2025 — Present
 
-* Full authentication system (Supabase)
-* Secure login / signup flows
-* Production deployment (Netlify)
-* Clean architecture & environment config handling
-  👉 Live: https://briefly-app1.netlify.app
-
----
-
-**🔹 SaaS Invoicing Platform (Stripe Integration)**
-
-* Subscription system with billing logic
-* Secure authentication & role-based access
-* Dashboard with analytics
-* Real SaaS architecture
-  👉 Live: https://invoiceflow-saas-mu.vercel.app/
+- Developed and delivered end-to-end SaaS features across frontend, backend, and database layers  
+- Implemented secure authentication systems and structured REST API architecture  
+- Improved performance, scalability, and system reliability in production environments  
+- Contributed to architecture decisions and product development strategy  
+- Optimized workflows and strengthened overall system design  
 
 ---
 
-**🔹 DevCircle — Developer Social Platform**
+### Full Stack Developer — Freelance / Personal Clients  
+Feb 2023 — Feb 2025
 
-* Authentication & session management
-* Posts, likes, comments, follow system
-* Global & personalized feeds
-* Responsive UI
-  👉 Live: https://synapse-dev-network.lovable.app/
-  👉 Code: https://github.com/Dimson7777/synapse-dev-network
-
----
-
-**🔹 AI Project Planner**
-
-* AI-powered task and project generation
-* Workflow organization system
-* Clean and intuitive UI
-  👉 Live: https://project-spark-ai-80.lovable.app/
-  👉 Code: https://github.com/Dimson7777/ai-project-planner
+- Delivered 10+ full-stack applications from concept to deployment  
+- Designed and developed scalable systems based on real-world requirements  
+- Managed complete development lifecycle independently  
+- Collaborated directly with clients to define and execute solutions  
+- Improved usability, performance, and product quality  
 
 ---
 
-### ⚡ Additional Projects
+## 🚀 Selected Projects
 
-**🔹 Fitness Web App**
-
-* Mobile-first design
-* Reusable components
-* Optimized performance
-  👉 Live: https://sculpt-stack-store.lovable.app/
-
----
-
-**🔹 Personal Portfolio Website**
-
-* Clean and modern UI
-* Optimized performance
-* Live project showcase
-  👉 Live: https://dimitrijeswebsite.lovable.app
+### Briefly — SaaS Workspace Platform
+- Implemented full authentication system using Supabase  
+- Designed secure login and session management  
+- Delivered production-ready architecture and deployment  
+https://briefly-app1.netlify.app  
 
 ---
 
-### ⚙️ Tech Stack
-
-* **Frontend:** React, Next.js, TypeScript, Tailwind
-* **Backend:** Node.js, Express
-* **Database:** PostgreSQL / Supabase
-* **APIs:** RESTful APIs
-* **Payments:** Stripe (subscriptions & billing flows)
-* **Tools:** Git, GitHub, VS Code
-* **AI Dev Tools:** GitHub Copilot, Cursor
+### SaaS Invoicing Platform (Stripe Integration)
+- Developed subscription billing system with payment flow logic  
+- Implemented secure role-based access control  
+- Designed analytics dashboard for business insights  
+https://invoiceflow-saas-mu.vercel.app  
 
 ---
 
-### 🧩 What I Focus On
-
-* Building real SaaS products (not just demo apps)
-* Clean, scalable architecture
-* Secure authentication & API design
-* Performance and UX optimization
-
----
-
-### 🌍 Contact
-
-* Portfolio: https://dimitrijeswebsite.lovable.app
-* GitHub: https://github.com/Dimson7777
-* Email: [dimibukejlovic@icloud.com](mailto:dimibukejlovic@icloud.com)
+### DevCircle — Developer Platform
+- Developed authentication and session management system  
+- Designed social features (posts, comments, follows)  
+- Implemented scalable and personalized feed architecture  
+https://synapse-dev-network.lovable.app/  
 
 ---
 
-### ⚡ About Me
+### AI Project Planner
+- Developed AI-powered task and project generation system  
+- Designed structured workflow organization  
+- Delivered intuitive and clean user experience  
+https://project-spark-ai-80.lovable.app/  
 
-I focus on building real-world SaaS applications with production-level quality.
-I enjoy solving complex problems, improving systems, and shipping fast.
+---
 
-Open to remote opportunities and new challenges.
+### SculptCommerce — E-commerce Platform
+- Developed full e-commerce experience with product catalog and cart system  
+- Implemented checkout flow and state management  
+- Optimized UI for performance and responsive design  
+https://sculpt-commerce.vercel.app  
+
+---
+
+### Fitness Web App
+- Designed mobile-first user interface and reusable components  
+- Developed structured frontend architecture  
+- Optimized performance and responsiveness across devices  
+https://sculpt-stack-store.vercel.app  
+
+---
+
+## 🧠 Tech Stack
+
+Frontend: React, Next.js, TypeScript, Tailwind  
+Backend: Node.js, Express  
+Database: PostgreSQL, Supabase  
+APIs: RESTful APIs  
+Payments: Stripe  
+Tools: Git, GitHub, VS Code  
+AI Tools: Copilot, Cursor  
+
+---
+
+## 🎯 Focus
+
+- Building real-world SaaS products (not demo applications)  
+- Designing scalable and maintainable system architecture  
+- Implementing secure authentication and API systems  
+- Optimizing performance and user experience  
+
+---
+
+## 🌐 Contact
+
+Portfolio: https://dimitrijeswebsite.lovable.app  
+GitHub: https://github.com/Dimson7777  
+Email: dimibukejlovic@icloud.com  
+
+---
+
+## 👨‍💻 About
+
+Full Stack Engineer focused on designing, developing, and delivering production-level SaaS applications.
+
+I consistently analyze problems, evaluate solutions, and implement efficient systems that perform in real-world environments. I enjoy solving complex challenges, improving existing architectures, and transforming ideas into scalable, reliable products.
+
+I am motivated by building systems that work under real conditions — not just demos — and continuously improving performance, structure, and user experience.
+
+Open to remote opportunities.
 
