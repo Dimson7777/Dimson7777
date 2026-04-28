@@ -71,11 +71,15 @@ https://scopelab.vercel.app/
 
 ---
 
-### Fitness Web App
-- Designed mobile-first user interface and reusable components  
-- Developed structured frontend architecture  
-- Optimized performance and responsiveness across devices  
-https://sculpt-stack-store.vercel.app  
+### Real-Time Collaboration App
+
+- Developed a real-time collaboration platform with live synchronization and multi-user interaction  
+- Implemented shared workspaces with instant updates across connected clients  
+- Designed scalable architecture to handle concurrent users and real-time data flow  
+- Optimized performance for low-latency communication and seamless user experience  
+- Structured frontend and backend communication for reliable state management  
+
+Live: https://realtime-collab-app-six.vercel.app
 
 ---
 
