@@ -38,7 +38,7 @@ Feb 2023 — Feb 2025
 https://briefly-app1.netlify.app  
 
 ---
-**Personal Portfolio — Full Stack Platform**
+### Personal Portfolio — Full Stack Platform
 
 • Developed modern full stack portfolio showcasing real-world SaaS applications  
 • Designed clean, responsive UI with focus on user experience  
