@@ -115,7 +115,7 @@ AI Tools: Copilot, Cursor
 
 ## 🌐 Contact
 
-Portfolio: https://dimitrijeswebsite.lovable.app  
+Portfolio: https://dimitrije-web.vercel.app/
 GitHub: https://github.com/Dimson7777  
 Email: dimibukejlovic@icloud.com  
 
