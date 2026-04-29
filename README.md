@@ -43,10 +43,9 @@ https://briefly-app1.netlify.app
 • Developed modern full stack portfolio showcasing real-world SaaS applications  
 • Designed clean, responsive UI with focus on user experience  
 • Delivered production-ready platform demonstrating end-to-end development  
-
 https://dimitrije-web.vercel.app/
 
-
+---
 
 
 ### SaaS Invoicing Platform (Stripe Integration)
