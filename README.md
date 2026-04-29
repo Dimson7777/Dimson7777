@@ -39,6 +39,19 @@ https://briefly-app1.netlify.app
 
 ---
 
+###Personal Portfolio — Full Stack Platform
+
+• Developed a modern full stack portfolio showcasing real-world SaaS applications and production-ready projects  
+• Designed clean, responsive UI focused on strong user experience and visual consistency  
+• Implemented scalable frontend architecture with reusable components  
+• Integrated live demos and real project links to demonstrate end-to-end development  
+• Optimized performance and ensured smooth navigation across all sections  
+• Delivered a polished, production-ready platform highlighting full ownership and problem-solving  
+
+
+
+
+
 ### SaaS Invoicing Platform (Stripe Integration)
 - Developed subscription billing system with payment flow logic  
 - Implemented secure role-based access control  
