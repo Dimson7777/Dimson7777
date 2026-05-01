@@ -77,7 +77,7 @@ https://scopelab.vercel.app/
 • Built a tool that converts rough project ideas into clear, structured narratives for CVs, LinkedIn, and interviews  
 • Designed logic to extract technical depth, decisions, and impact from minimal input  
 • Delivered a polished, production-ready UI with strong focus on usability and clarity  
-https://devpitch-pro.vercel.app
+https://devpitch-rho.vercel.app/
 
 ---
 ### SculptCommerce — E-commerce Platform
