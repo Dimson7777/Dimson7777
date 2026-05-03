@@ -103,7 +103,7 @@ Live: https://realtime-collab-app-six.vercel.app
 ## 🧠 Tech Stack
 
 Frontend: React, Next.js, TypeScript, Tailwind  
-Backend: Node.js, Express  
+Backend: Node.js, Express, Next.js
 Database: PostgreSQL, Supabase  
 APIs: RESTful APIs  
 Payments: Stripe  
