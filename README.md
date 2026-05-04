@@ -123,10 +123,9 @@ AI Tools: Copilot, Cursor
 
 ## 🌐 Contact
 
-Portfolio: https://dimitrije-web.vercel.app/
-GitHub: https://github.com/Dimson7777  
-Email: dimibukejlovic@icloud.com  
-
+## [Portfolio](https://dimitrije-web.vercel.app/)
+## [GitHub](https://github.com/Dimson7777)
+## [Email](dimibukejlovic@icloud.com)
 ---
 
 ## 👨‍💻 About
