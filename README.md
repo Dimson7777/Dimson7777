@@ -32,17 +32,16 @@ Feb 2023 — Feb 2025
 ## 🚀 Selected Projects
 
 
-###Nexus — Multi-Tenant SaaS Platform
+### Nexus — Multi-Tenant SaaS Platform
 
 • Developed a modern multi-tenant SaaS platform with authentication, team collaboration, and billing workflows  
 • Implemented secure role-based access control, workspace management, and Stripe-powered subscription flows  
 • Designed a premium command-center inspired interface with real-time activity tracking and modern SaaS UX  
 • Built a production-ready architecture using React, TypeScript, Supabase, Stripe, and Tailwind CSS  
-
-[YOUR URL]
-
+https://multi-talent-saas.vercel.app/
 
 
+---
 
 
 
