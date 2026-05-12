@@ -1,25 +1,28 @@
 # Dimitrije Bukejlovic
 
-**Full Stack Engineer — SaaS, Payments & Scalable Product Systems**
+**Full Stack Engineer — Web Applications, Product Architecture & Scalable Systems**
 
-I build production-ready full-stack applications with a focus on scalable architecture, secure authentication, clean data flow, reliable billing logic, and polished user experience.
+I build production-ready full-stack applications across frontend, backend, databases, authentication, payments, dashboards, real-time features, and product workflows.
 
-My work is focused on turning product ideas into real SaaS systems — not just UI screens. I care about how the product is structured, how data moves through the system, how access is protected, how billing states behave, and how the application performs when real users interact with it.
+My strength is not only creating interfaces, but building complete systems: clean architecture, secure user flows, reliable APIs, scalable data models, polished UI, and deployment-ready products that can support real users and real business requirements.
 
 ---
 
 ## 🚀 Engineering Focus
 
-I specialize in building full-stack SaaS platforms, dashboards, billing systems, developer tools, collaboration products, e-commerce flows, and AI-assisted workflows.
+I work across the full product stack — from user-facing interfaces to backend logic, database structure, API design, billing workflows, and deployment.
 
-My focus is on creating systems that are:
+My focus is on building systems that are:
 
 - Scalable enough to grow with the product
 - Secure across authentication, authorization, and user access
+- Clear in frontend/backend communication
+- Reliable in payments, subscriptions, data flow, and user state
 - Maintainable for future development
-- Clean in frontend/backend communication
-- Reliable in billing, subscription, and payment-state handling
-- Polished enough to feel like real production software
+- Fast, responsive, and polished across devices
+- Built around real product value, not just demo functionality
+
+I have experience building SaaS platforms, developer tools, dashboards, collaboration systems, AI-assisted workflows, e-commerce flows, billing systems, and portfolio/product presentation platforms.
 
 ---
 
@@ -28,14 +31,14 @@ My focus is on creating systems that are:
 ### Full Stack Engineer — TokenFlow  
 **Jan 2025 — Present**
 
-At TokenFlow, I work on full-stack SaaS architecture across frontend, backend, and database layers. My focus is on building secure product infrastructure, scalable feature systems, reliable API boundaries, and production-ready user flows.
+At TokenFlow, I work on full-stack product architecture across frontend, backend, and database layers. My focus is on building secure application flows, scalable feature systems, reliable API boundaries, and production-ready product infrastructure.
 
 **Key impact:**
 
-- Architected SaaS features across React, TypeScript, Node.js/Express, and Supabase/PostgreSQL
+- Architected full-stack features across React, TypeScript, Node.js/Express, and Supabase/PostgreSQL
 - Designed secure authentication, RBAC, protected routes, and user-level access control
 - Improved frontend-backend data flow, system reliability, and release readiness
-- Contributed to product architecture decisions and scalable system design
+- Contributed to architecture decisions, product structure, and scalable system design
 - Built reusable patterns that make future development faster, safer, and easier to maintain
 
 ---
@@ -50,7 +53,7 @@ The main value of this work was improving consistency, reducing friction between
 **Key impact:**
 
 - Optimized API integration layers and frontend/backend communication
-- Improved responsive component architecture for better cross-device consistency
+- Improved responsive component architecture for stronger cross-device consistency
 - Designed clearer loading states, error states, and interaction patterns
 - Reduced workflow bottlenecks by improving structure around client-facing features
 - Strengthened platform reliability through cleaner data flow and better product organization
@@ -76,12 +79,12 @@ The focus was on building complete products that solve real workflow problems �
 
 ## 🧩 Selected Projects
 
-### Nexus — Multi-Tenant SaaS Platform  
+### 1. Nexus — Multi-Tenant SaaS Platform  
 **Live:** https://multi-talent-saas.vercel.app/
 
 Nexus is a multi-tenant SaaS platform built around authentication, team collaboration, workspace management, and subscription-based access.
 
-The main challenge was designing a SaaS structure that supports multiple teams, protected routes, billing states, and role-based access without creating fragile or hard-to-maintain logic.
+The main challenge was designing a product structure that supports multiple teams, protected routes, billing states, and role-based access without creating fragile or hard-to-maintain logic.
 
 **Architecture & product value:**
 
@@ -95,83 +98,26 @@ The main challenge was designing a SaaS structure that supports multiple teams, 
 
 ---
 
-### Briefly — SaaS Workspace Platform  
-**Live:** https://briefly-app1.netlify.app/
+### 2. Personal Portfolio — Full Stack Platform  
+**Live:** https://dimitrije-web.vercel.app/
 
-Briefly is a SaaS workspace platform focused on secure login, session management, protected routes, and clean product delivery.
+My personal portfolio is built as a full-stack engineer presentation platform, focused on project credibility, live product links, technical positioning, and clear recruiter-facing communication.
 
-The goal was to build a stable SaaS foundation with authentication, secure user flows, and a simple interface that behaves like a real application.
-
-**Architecture & product value:**
-
-- Implemented full authentication system using Supabase
-- Designed secure login, session persistence, and protected user routes
-- Built responsive workspace UI with clear product hierarchy
-- Improved deployment structure for production-ready usage
-- Focused on stable state handling, clean UX, and maintainable application structure
-
-**Stack:** React, TypeScript, Supabase, Tailwind CSS, Netlify
-
----
-
-### SaaS Invoicing Platform — Billing & Finance SaaS  
-**Live:** https://invoiceflow-saas-mu.vercel.app/
-
-A SaaS invoicing platform focused on subscription billing, access control, dashboard analytics, and payment-state handling.
-
-The main value of this project is the billing architecture: managing upgrade flows, plan states, Pro/Free access, and finance-related dashboard logic in a predictable and production-ready way.
+The goal was to create more than a basic portfolio page — it works as a central product platform that presents real applications, architecture thinking, technical value, and production delivery.
 
 **Architecture & product value:**
 
-- Engineered Stripe checkout and subscription billing logic
-- Implemented Free/Pro plan access control and protected premium features
-- Built dashboard surfaces for invoices, analytics, and business insights
-- Designed secure role-based access patterns around billing state
-- Improved payment-flow reliability, user feedback, and product clarity
-
-**Stack:** React, TypeScript, Supabase, PostgreSQL, Stripe, Tailwind CSS, Vercel
-
----
-
-### SYNAPSE — Developer Platform  
-**Live:** https://synapse-dev-network1.vercel.app/
-
-SYNAPSE is a developer-focused platform built around profiles, sessions, feeds, and social interaction features.
-
-The goal was to create a scalable developer community experience with clean interaction flows, responsive UI, and stable frontend/backend communication.
-
-**Architecture & product value:**
-
-- Built authentication and session management system
-- Designed social features including posts, comments, follows, and feed interactions
-- Structured scalable feed architecture with personalized user flows
-- Created reusable UI patterns for profiles, discovery, and engagement
-- Focused on performance, responsiveness, and clean product navigation
-
-**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
-
----
-
-### SCOPELAB — AI Planning System  
-**Live:** https://scopelab.vercel.app/
-
-SCOPELAB is an AI-powered planning system that transforms unclear project ideas into structured tasks, workflows, and organized delivery plans.
-
-The business value is in reducing planning friction: instead of starting from a blank page, users can generate clear project structure and move faster from idea to execution.
-
-**Architecture & product value:**
-
-- Built AI-assisted task and project generation workflows
-- Designed structured output flows for planning and execution
-- Created dashboard hierarchy for organized project management
-- Improved UX clarity for turning raw ideas into actionable plans
-- Built reusable planning surfaces for repeatable workflows
+- Designed a responsive portfolio focused on real full-stack projects
+- Structured project case studies around architecture, impact, and production value
+- Built clean navigation, strong visual hierarchy, and direct project access
+- Optimized the site for recruiters, hiring managers, and technical review
+- Created a central platform for showcasing full-stack product delivery
 
 **Stack:** React, TypeScript, Next.js, Tailwind CSS, Vercel
 
 ---
 
-### DevPitch Pro — Developer Productivity Tool  
+### 3. DevPitch Pro — Developer Productivity Tool  
 **Live:** https://devpitch-rho.vercel.app/
 
 DevPitch Pro is a developer productivity tool that converts rough project ideas into clear professional narratives for CVs, LinkedIn, interviews, and portfolio case studies.
@@ -190,26 +136,26 @@ The product solves a real problem for developers: explaining technical work clea
 
 ---
 
-### SculptCommerce — E-commerce Platform  
-**Live:** https://sculpt-commerce.vercel.app/
+### 4. SaaS Invoicing Platform — Billing & Finance SaaS  
+**Live:** https://invoiceflow-saas-mu.vercel.app/
 
-SculptCommerce is a full e-commerce platform focused on catalog browsing, cart flow, checkout experience, and responsive product UI.
+A SaaS invoicing platform focused on subscription billing, access control, dashboard analytics, and payment-state handling.
 
-The focus was on building a clean commerce experience with reliable state management, product structure, and polished user interaction.
+The main value of this project is the billing architecture: managing upgrade flows, plan states, Free/Pro access, and finance-related dashboard logic in a predictable and production-ready way.
 
 **Architecture & product value:**
 
-- Built product catalog, cart, and checkout flow
-- Implemented clean frontend state management for commerce interactions
-- Designed responsive UI optimized for desktop and mobile users
-- Improved performance, navigation clarity, and purchase-flow usability
-- Structured the app for future extension into payments, orders, and user accounts
+- Engineered Stripe checkout and subscription billing logic
+- Implemented Free/Pro plan access control and protected premium features
+- Built dashboard surfaces for invoices, analytics, and business insights
+- Designed secure role-based access patterns around billing state
+- Improved payment-flow reliability, user feedback, and product clarity
 
-**Stack:** React, TypeScript, Tailwind CSS, Vercel
+**Stack:** React, TypeScript, Supabase, PostgreSQL, Stripe, Tailwind CSS, Vercel
 
 ---
 
-### Real-Time Collaboration App  
+### 5. Real-Time Collaboration App  
 **Live:** https://realtime-collab-app-six.vercel.app/
 
 A real-time collaboration platform built around shared workspaces, live synchronization, and multi-user interaction.
@@ -228,20 +174,79 @@ The main technical challenge was creating a smooth collaboration experience wher
 
 ---
 
-### Personal Portfolio — Full Stack Platform  
-**Live:** https://dimitrije-web.vercel.app/
+### 6. SYNAPSE — Developer Platform  
+**Live:** https://synapse-dev-network1.vercel.app/
 
-My personal portfolio is built as a full-stack engineer presentation platform, focused on project credibility, live product links, technical positioning, and clear recruiter-facing communication.
+SYNAPSE is a developer-focused platform built around profiles, sessions, feeds, and social interaction features.
+
+The goal was to create a scalable developer community experience with clean interaction flows, responsive UI, and stable frontend/backend communication.
 
 **Architecture & product value:**
 
-- Designed a responsive portfolio focused on real SaaS projects
-- Structured project case studies around architecture, impact, and production value
-- Built clean navigation, strong visual hierarchy, and direct project access
-- Optimized the site for recruiters, hiring managers, and technical review
-- Created a central platform for showcasing full-stack product delivery
+- Built authentication and session management system
+- Designed social features including posts, comments, follows, and feed interactions
+- Structured scalable feed architecture with personalized user flows
+- Created reusable UI patterns for profiles, discovery, and engagement
+- Focused on performance, responsiveness, and clean product navigation
+
+**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
+
+---
+
+### 7. SCOPELAB — AI Planning System  
+**Live:** https://scopelab.vercel.app/
+
+SCOPELAB is an AI-powered planning system that transforms unclear project ideas into structured tasks, workflows, and organized delivery plans.
+
+The business value is in reducing planning friction: instead of starting from a blank page, users can generate clear project structure and move faster from idea to execution.
+
+**Architecture & product value:**
+
+- Built AI-assisted task and project generation workflows
+- Designed structured output flows for planning and execution
+- Created dashboard hierarchy for organized project management
+- Improved UX clarity for turning raw ideas into actionable plans
+- Built reusable planning surfaces for repeatable workflows
 
 **Stack:** React, TypeScript, Next.js, Tailwind CSS, Vercel
+
+---
+
+### 8. Briefly — SaaS Workspace Platform  
+**Live:** https://briefy-app1.netlify.app/
+
+Briefly is a SaaS workspace platform focused on secure login, session management, protected routes, and clean product delivery.
+
+The goal was to build a stable product foundation with authentication, secure user flows, and a simple interface that behaves like a real application.
+
+**Architecture & product value:**
+
+- Implemented full authentication system using Supabase
+- Designed secure login, session persistence, and protected user routes
+- Built responsive workspace UI with clear product hierarchy
+- Improved deployment structure for production-ready usage
+- Focused on stable state handling, clean UX, and maintainable application structure
+
+**Stack:** React, TypeScript, Supabase, Tailwind CSS, Netlify
+
+---
+
+### 9. SculptCommerce — E-commerce Platform  
+**Live:** https://sculpt-commerce.vercel.app/
+
+SculptCommerce is a full e-commerce platform focused on catalog browsing, cart flow, checkout experience, and responsive product UI.
+
+The focus was on building a clean commerce experience with reliable state management, product structure, and polished user interaction.
+
+**Architecture & product value:**
+
+- Built product catalog, cart, and checkout flow
+- Implemented clean frontend state management for commerce interactions
+- Designed responsive UI optimized for desktop and mobile users
+- Improved performance, navigation clarity, and purchase-flow usability
+- Structured the app for future extension into payments, orders, and user accounts
+
+**Stack:** React, TypeScript, Tailwind CSS, Vercel
 
 ---
 
@@ -256,11 +261,11 @@ Node.js, Express.js, REST APIs, API Design, Server-Side Logic, Authentication, A
 ### Databases & Data Architecture
 Supabase, PostgreSQL, Relational Data Modeling, Database-Backed Features, User Data Isolation, Workspace Data Models, Payment-State Storage, Query Structure, Data Flow Design, Row-Level Security Concepts
 
-### SaaS & Payments
+### Payments & Product Systems
 Stripe, Stripe Checkout, Subscriptions, Billing Portals, Plan Gating, Free/Pro Access Logic, Subscription State Handling, Invoicing Logic, Payment Flow UX, Billing Dashboards, Financial Workflow Design
 
 ### Product Engineering
-SaaS Architecture, Multi-Tenant Systems, Dashboard Design, Admin Workflows, User Roles, Collaboration Systems, Real-Time Product Flows, AI-Assisted Workflows, Developer Tools, E-commerce Flows, Production Polish, Product Thinking
+Full-Stack Architecture, SaaS Architecture, Multi-Tenant Systems, Dashboard Design, Admin Workflows, User Roles, Collaboration Systems, Real-Time Product Flows, AI-Assisted Workflows, Developer Tools, E-commerce Flows, Production Polish, Product Thinking
 
 ### DevOps & Delivery
 Git, GitHub, Vercel, Netlify, Environment Variables, Deployment Workflows, CI/CD Concepts, Release Readiness, QA Checks, Debugging, Code Review, Version Control, Documentation
@@ -290,9 +295,9 @@ That is the difference between building pages and building products.
 
 ## 📌 Current Focus
 
-I am currently focused on building production-level SaaS systems with strong architecture, secure access control, subscription billing, clean dashboards, and polished user experience.
+I am currently focused on building production-level full-stack systems with strong architecture, secure access control, clean APIs, scalable databases, polished dashboards, payment workflows, and reliable user experience.
 
-I am especially interested in products where frontend, backend, payments, data structure, and user experience all need to work together as one reliable system.
+I am especially interested in products where frontend, backend, data structure, authentication, payments, and UX all need to work together as one complete system.
 
 ---
 
@@ -305,4 +310,4 @@ I am especially interested in products where frontend, backend, payments, data s
 
 ---
 
-**Production architecture | SaaS systems | Secure APIs | Stripe billing | Supabase/PostgreSQL | Full-stack product delivery**
+**Full-stack architecture | Product systems | Secure APIs | Stripe billing | Supabase/PostgreSQL | Scalable web applications**
