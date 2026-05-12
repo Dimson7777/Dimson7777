@@ -2,9 +2,11 @@
 
 **Full Stack Engineer — Web Applications, Product Architecture & Scalable Systems**
 
-I build production-ready full-stack applications across frontend, backend, databases, authentication, payments, dashboards, real-time features, and product workflows.
 
-My strength is not only creating interfaces, but building complete systems: clean architecture, secure user flows, reliable APIs, scalable data models, polished UI, and deployment-ready products that can support real users and real business requirements.
+I build production-ready full-stack applications across frontend, backend, databases, authentication, payments, dashboards, real-time features, and complete product workflows.
+
+My strength is not only creating clean interfaces, but building complete systems: structured architecture, secure user flows, reliable APIs, scalable data models, polished UI, and deployment-ready products designed to support real users and real business needs.
+
 ---
 
 ## 🚀 Engineering Focus
