@@ -5,7 +5,6 @@
 I build production-ready full-stack applications across frontend, backend, databases, authentication, payments, dashboards, real-time features, and product workflows.
 
 My strength is not only creating interfaces, but building complete systems: clean architecture, secure user flows, reliable APIs, scalable data models, polished UI, and deployment-ready products that can support real users and real business requirements.
-
 ---
 
 ## 🚀 Engineering Focus
