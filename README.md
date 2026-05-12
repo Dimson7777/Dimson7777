@@ -96,7 +96,7 @@ The main challenge was designing a SaaS structure that supports multiple teams, 
 ---
 
 ### Briefly — SaaS Workspace Platform  
-**Live:** https://briefy-app1.netlify.app/
+**Live:** https://briefly-app1.netlify.app/
 
 Briefly is a SaaS workspace platform focused on secure login, session management, protected routes, and clean product delivery.
 
