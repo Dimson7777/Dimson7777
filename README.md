@@ -1,141 +1,308 @@
 # Dimitrije Bukejlovic
-Full Stack Engineer — Architecting Scalable SaaS & Payment Systems
-I am a Full Stack Engineer focused on designing and delivering production-grade SaaS applications. My approach prioritizes clean architecture, robust security, and seamless user experiences that drive business value.
+
+**Full Stack Engineer — SaaS, Payments & Scalable Product Systems**
+
+I build production-ready full-stack applications with a focus on scalable architecture, secure authentication, clean data flow, reliable billing logic, and polished user experience.
+
+My work is focused on turning product ideas into real SaaS systems — not just UI screens. I care about how the product is structured, how data moves through the system, how access is protected, how billing states behave, and how the application performs when real users interact with it.
+
+---
+
+## 🚀 Engineering Focus
+
+I specialize in building full-stack SaaS platforms, dashboards, billing systems, developer tools, collaboration products, e-commerce flows, and AI-assisted workflows.
+
+My focus is on creating systems that are:
+
+- Scalable enough to grow with the product
+- Secure across authentication, authorization, and user access
+- Maintainable for future development
+- Clean in frontend/backend communication
+- Reliable in billing, subscription, and payment-state handling
+- Polished enough to feel like real production software
+
 ---
 
 ## 💼 Experience
 
 ### Full Stack Engineer — TokenFlow  
-Jan 2025 — Present
+**Jan 2025 — Present**
 
-End-to-End SaaS Delivery: Architected and deployed full-stack features, ensuring tight integration between frontend, backend, and database layers.
+At TokenFlow, I work on full-stack SaaS architecture across frontend, backend, and database layers. My focus is on building secure product infrastructure, scalable feature systems, reliable API boundaries, and production-ready user flows.
 
-Security & Architecture: Implemented secure authentication and structured REST API architectures to handle complex data flows safely.
+**Key impact:**
 
-Performance Optimization: Improved system reliability and scalability in live production environments, focusing on long-term maintainability.
----
-
-### Full Stack Developer — Freelance / Personal Clients  
-Jan 2023 — Dec 2023
-
-- Delivered 10+ full-stack applications from concept to deployment  
-
+- Architected SaaS features across React, TypeScript, Node.js/Express, and Supabase/PostgreSQL
+- Designed secure authentication, RBAC, protected routes, and user-level access control
+- Improved frontend-backend data flow, system reliability, and release readiness
+- Contributed to product architecture decisions and scalable system design
+- Built reusable patterns that make future development faster, safer, and easier to maintain
 
 ---
 
-## 🚀 Selected Projects
+### Full Stack Engineer — ScaleRoad LLC  
+**Dec 2023 — Jan 2025**
 
+At ScaleRoad LLC, I worked on improving full-stack product workflows, API integration layers, responsive frontend systems, and client-facing application flows.
 
-### Nexus — Multi-Tenant SaaS Platform
+The main value of this work was improving consistency, reducing friction between frontend and backend logic, and creating more reliable product surfaces across desktop and mobile environments.
 
-• Developed a modern multi-tenant SaaS platform with authentication, team collaboration, and billing workflows  
-• Implemented secure role-based access control, workspace management, and Stripe-powered subscription flows  
-• Designed a premium command-center inspired interface with real-time activity tracking and modern SaaS UX  
-• Built a production-ready architecture using React, TypeScript, Supabase, Stripe, and Tailwind CSS  
-https://multi-talent-saas.vercel.app/
+**Key impact:**
 
-
----
-
-
-
-
-### Briefly — SaaS Workspace Platform
-- Implemented full authentication system using Supabase  
-- Designed secure login and session management  
-- Delivered production-ready architecture and deployment  
-https://briefly-app1.netlify.app  
-
----
-### Personal Portfolio — Full Stack Platform
-
-• Developed modern full stack portfolio showcasing real-world SaaS applications  
-• Designed clean, responsive UI with focus on user experience  
-• Delivered production-ready platform demonstrating end-to-end development  
-https://dimitrije-web.vercel.app/
+- Optimized API integration layers and frontend/backend communication
+- Improved responsive component architecture for better cross-device consistency
+- Designed clearer loading states, error states, and interaction patterns
+- Reduced workflow bottlenecks by improving structure around client-facing features
+- Strengthened platform reliability through cleaner data flow and better product organization
 
 ---
 
+### Full Stack Engineer — Freelancer.com / Personal Clients  
+**Jan 2023 — Dec 2023**
 
-### SaaS Invoicing Platform (Stripe Integration)
-- Developed subscription billing system with payment flow logic  
-- Implemented secure role-based access control  
-- Designed analytics dashboard for business insights  
-https://invoiceflow-saas-mu.vercel.app  
+Delivered full-stack applications from concept to production, working across planning, UI, backend logic, database structure, deployment, and product polish.
 
----
+The focus was on building complete products that solve real workflow problems — not isolated demo pages.
 
-### SYNAPSE — Developer Platform
-- Developed authentication and session management system  
-- Designed social features (posts, comments, follows)  
-- Implemented scalable and personalized feed architecture  
-https://synapse-dev-network1.vercel.app/
+**Key impact:**
 
----
-
-### SCOPELAB
-- Developed AI-powered task and project generation system  
-- Designed structured workflow organization  
-- Delivered intuitive and clean user experience  
-https://scopelab.vercel.app/
+- Delivered 10+ full-stack applications from idea to deployed product
+- Built dashboards, authentication systems, REST APIs, billing flows, and database-backed features
+- Managed the full development lifecycle independently from technical scope to production handoff
+- Improved usability, responsiveness, performance, and overall product quality
+- Established repeatable delivery standards using Git, GitHub, QA checks, reusable components, and deployment documentation
 
 ---
 
-### DevPitch Pro — Developer Productivity Tool
+## 🧩 Selected Projects
 
-• Built a tool that converts rough project ideas into clear, structured narratives for CVs, LinkedIn, and interviews  
-• Designed logic to extract technical depth, decisions, and impact from minimal input  
-• Delivered a polished, production-ready UI with strong focus on usability and clarity  
-https://devpitch-rho.vercel.app/
+### Nexus — Multi-Tenant SaaS Platform  
+**Live:** https://multi-talent-saas.vercel.app/
 
----
-### SculptCommerce — E-commerce Platform
-- Developed full e-commerce experience with product catalog and cart system  
-- Implemented checkout flow and state management  
-- Optimized UI for performance and responsive design  
- https://sculpt-commerce.vercel.app/
+Nexus is a multi-tenant SaaS platform built around authentication, team collaboration, workspace management, and subscription-based access.
 
----
+The main challenge was designing a SaaS structure that supports multiple teams, protected routes, billing states, and role-based access without creating fragile or hard-to-maintain logic.
 
-### Real-Time Collaboration App
+**Architecture & product value:**
 
-- Developed a real-time collaboration platform with live synchronization and multi-user interaction  
-- Implemented shared workspaces with instant updates across connected clients  
-- Designed scalable architecture to handle concurrent users and real-time data flow  
-- Optimized performance for low-latency communication and seamless user experience  
-- Structured frontend and backend communication for reliable state management  
+- Built multi-tenant workspace logic with account-level separation
+- Implemented secure authentication, session handling, and role-based access control
+- Designed Stripe-powered subscription flows with plan gating
+- Structured dashboard flows for team collaboration and business operations
+- Created a scalable SaaS foundation ready for future premium modules
 
-Live: https://realtime-collab-app-six.vercel.app
+**Stack:** React, TypeScript, Supabase, Stripe, Tailwind CSS, Vercel
 
 ---
 
-## 🧠 Tech Stack
+### Briefly — SaaS Workspace Platform  
+**Live:** https://briefy-app1.netlify.app/
 
-Frontend: React, Next.js, TypeScript, Tailwind  
-Backend: Node.js, Express, Next.js
-Database: PostgreSQL, Supabase  
-APIs: RESTful APIs  
-Payments: Stripe  
-Tools: Git, GitHub, VS Code  
-AI Tools: Copilot, Cursor  
+Briefly is a SaaS workspace platform focused on secure login, session management, protected routes, and clean product delivery.
 
----
+The goal was to build a stable SaaS foundation with authentication, secure user flows, and a simple interface that behaves like a real application.
 
-## 🎯 Engineering Focus
-I don't just build demo applications; I build systems that work under real conditions. My focus is always on:
+**Architecture & product value:**
 
-Designing maintainable system architectures.
+- Implemented full authentication system using Supabase
+- Designed secure login, session persistence, and protected user routes
+- Built responsive workspace UI with clear product hierarchy
+- Improved deployment structure for production-ready usage
+- Focused on stable state handling, clean UX, and maintainable application structure
 
-Implementing high-security standards for auth and payments.
-
-Delivering a "wow" factor through polished, intuitive user interfaces.
+**Stack:** React, TypeScript, Supabase, Tailwind CSS, Netlify
 
 ---
 
-## 🌐 Contact
+### SaaS Invoicing Platform — Billing & Finance SaaS  
+**Live:** https://invoiceflow-saas-mu.vercel.app/
 
-## [Portfolio](https://dimitrije-web.vercel.app/)
-## [GitHub](https://github.com/Dimson7777)
-## [Email](dimibukejlovic@icloud.com)
+A SaaS invoicing platform focused on subscription billing, access control, dashboard analytics, and payment-state handling.
+
+The main value of this project is the billing architecture: managing upgrade flows, plan states, Pro/Free access, and finance-related dashboard logic in a predictable and production-ready way.
+
+**Architecture & product value:**
+
+- Engineered Stripe checkout and subscription billing logic
+- Implemented Free/Pro plan access control and protected premium features
+- Built dashboard surfaces for invoices, analytics, and business insights
+- Designed secure role-based access patterns around billing state
+- Improved payment-flow reliability, user feedback, and product clarity
+
+**Stack:** React, TypeScript, Supabase, PostgreSQL, Stripe, Tailwind CSS, Vercel
+
 ---
 
+### SYNAPSE — Developer Platform  
+**Live:** https://synapse-dev-network1.vercel.app/
+
+SYNAPSE is a developer-focused platform built around profiles, sessions, feeds, and social interaction features.
+
+The goal was to create a scalable developer community experience with clean interaction flows, responsive UI, and stable frontend/backend communication.
+
+**Architecture & product value:**
+
+- Built authentication and session management system
+- Designed social features including posts, comments, follows, and feed interactions
+- Structured scalable feed architecture with personalized user flows
+- Created reusable UI patterns for profiles, discovery, and engagement
+- Focused on performance, responsiveness, and clean product navigation
+
+**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
+
+---
+
+### SCOPELAB — AI Planning System  
+**Live:** https://scopelab.vercel.app/
+
+SCOPELAB is an AI-powered planning system that transforms unclear project ideas into structured tasks, workflows, and organized delivery plans.
+
+The business value is in reducing planning friction: instead of starting from a blank page, users can generate clear project structure and move faster from idea to execution.
+
+**Architecture & product value:**
+
+- Built AI-assisted task and project generation workflows
+- Designed structured output flows for planning and execution
+- Created dashboard hierarchy for organized project management
+- Improved UX clarity for turning raw ideas into actionable plans
+- Built reusable planning surfaces for repeatable workflows
+
+**Stack:** React, TypeScript, Next.js, Tailwind CSS, Vercel
+
+---
+
+### DevPitch Pro — Developer Productivity Tool  
+**Live:** https://devpitch-rho.vercel.app/
+
+DevPitch Pro is a developer productivity tool that converts rough project ideas into clear professional narratives for CVs, LinkedIn, interviews, and portfolio case studies.
+
+The product solves a real problem for developers: explaining technical work clearly, with enough technical depth, business context, and measurable impact.
+
+**Architecture & product value:**
+
+- Built structured workflows for turning raw project notes into polished career content
+- Designed logic for extracting technical depth, decisions, and impact from minimal input
+- Created recruiter-facing output formats for CV bullets, LinkedIn summaries, and interviews
+- Focused on clean UX, fast iteration, and practical developer outcomes
+- Delivered a polished product experience with strong usability and clarity
+
+**Stack:** React, TypeScript, Tailwind CSS, Vercel
+
+---
+
+### SculptCommerce — E-commerce Platform  
+**Live:** https://sculpt-commerce.vercel.app/
+
+SculptCommerce is a full e-commerce platform focused on catalog browsing, cart flow, checkout experience, and responsive product UI.
+
+The focus was on building a clean commerce experience with reliable state management, product structure, and polished user interaction.
+
+**Architecture & product value:**
+
+- Built product catalog, cart, and checkout flow
+- Implemented clean frontend state management for commerce interactions
+- Designed responsive UI optimized for desktop and mobile users
+- Improved performance, navigation clarity, and purchase-flow usability
+- Structured the app for future extension into payments, orders, and user accounts
+
+**Stack:** React, TypeScript, Tailwind CSS, Vercel
+
+---
+
+### Real-Time Collaboration App  
+**Live:** https://realtime-collab-app-six.vercel.app/
+
+A real-time collaboration platform built around shared workspaces, live synchronization, and multi-user interaction.
+
+The main technical challenge was creating a smooth collaboration experience where multiple users can interact with shared data while keeping the interface fast, stable, and predictable.
+
+**Architecture & product value:**
+
+- Built real-time collaboration flows with shared workspace logic
+- Implemented instant updates across connected users
+- Designed frontend/backend communication for reliable state handling
+- Optimized the UI for low-latency interaction and responsive updates
+- Structured the product around concurrent usage and scalable collaboration patterns
+
+**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
+
+---
+
+### Personal Portfolio — Full Stack Platform  
+**Live:** https://dimitrije-web.vercel.app/
+
+My personal portfolio is built as a full-stack engineer presentation platform, focused on project credibility, live product links, technical positioning, and clear recruiter-facing communication.
+
+**Architecture & product value:**
+
+- Designed a responsive portfolio focused on real SaaS projects
+- Structured project case studies around architecture, impact, and production value
+- Built clean navigation, strong visual hierarchy, and direct project access
+- Optimized the site for recruiters, hiring managers, and technical review
+- Created a central platform for showcasing full-stack product delivery
+
+**Stack:** React, TypeScript, Next.js, Tailwind CSS, Vercel
+
+---
+
+## 🛠 Technical Skills
+
+### Frontend
+React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Responsive Design, Mobile-First Design, Component Architecture, UI Systems, Design Systems, State Management, Forms, Routing, Protected Routes, Dashboard UI, Accessibility, Performance Optimization
+
+### Backend
+Node.js, Express.js, REST APIs, API Design, Server-Side Logic, Authentication, Authorization, RBAC, Session Management, Protected API Boundaries, Error Handling, Backend Validation, Webhooks, Secure Data Flow
+
+### Databases & Data Architecture
+Supabase, PostgreSQL, Relational Data Modeling, Database-Backed Features, User Data Isolation, Workspace Data Models, Payment-State Storage, Query Structure, Data Flow Design, Row-Level Security Concepts
+
+### SaaS & Payments
+Stripe, Stripe Checkout, Subscriptions, Billing Portals, Plan Gating, Free/Pro Access Logic, Subscription State Handling, Invoicing Logic, Payment Flow UX, Billing Dashboards, Financial Workflow Design
+
+### Product Engineering
+SaaS Architecture, Multi-Tenant Systems, Dashboard Design, Admin Workflows, User Roles, Collaboration Systems, Real-Time Product Flows, AI-Assisted Workflows, Developer Tools, E-commerce Flows, Production Polish, Product Thinking
+
+### DevOps & Delivery
+Git, GitHub, Vercel, Netlify, Environment Variables, Deployment Workflows, CI/CD Concepts, Release Readiness, QA Checks, Debugging, Code Review, Version Control, Documentation
+
+### AI-Assisted Development
+GitHub Copilot, Cursor, ChatGPT, AI-Assisted Debugging, Prompt Engineering, AI Workflow Design, Code Refactoring, Product Ideation, Technical Writing, Developer Productivity Systems
+
+---
+
+## 🎯 How I Think About Software
+
+Good software is not only about writing code. It is about understanding the product problem, designing the right architecture, and making sure the system behaves reliably for real users.
+
+When I build a feature, I think about:
+
+- What business problem does this solve?
+- How should the data move through the system?
+- What needs to be protected?
+- What happens when the user refreshes, upgrades, cancels, logs out, or hits an error?
+- Can this structure scale when more features are added?
+- Is the interface clear enough for real users?
+- Will another developer understand and extend this later?
+
+That is the difference between building pages and building products.
+
+---
+
+## 📌 Current Focus
+
+I am currently focused on building production-level SaaS systems with strong architecture, secure access control, subscription billing, clean dashboards, and polished user experience.
+
+I am especially interested in products where frontend, backend, payments, data structure, and user experience all need to work together as one reliable system.
+
+---
+
+## 📫 Contact
+
+**Portfolio:** https://dimitrije-web.vercel.app/  
+**GitHub:** https://github.com/Dimson777  
+**LinkedIn:** https://www.linkedin.com/in/dimitrije-bukejlovic-9055a8400/  
+**Email:** dimibukejlovic@icloud.com
+
+---
+
+**Production architecture | SaaS systems | Secure APIs | Stripe billing | Supabase/PostgreSQL | Full-stack product delivery**
