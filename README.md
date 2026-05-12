@@ -1,31 +1,25 @@
 # Dimitrije Bukejlovic
-Full Stack Engineer — SaaS, Payments & Scalable Systems
-
-I design, develop, and deliver production-grade applications with a strong focus on performance, scalability, and clean architecture.
-
+Full Stack Engineer — Architecting Scalable SaaS & Payment Systems
+I am a Full Stack Engineer focused on designing and delivering production-grade SaaS applications. My approach prioritizes clean architecture, robust security, and seamless user experiences that drive business value.
 ---
 
 ## 💼 Experience
 
 ### Full Stack Engineer — TokenFlow  
-Feb 2025 — Present
+Jan 2025 — Present
 
-- Developed and delivered end-to-end SaaS features across frontend, backend, and database layers  
-- Implemented secure authentication systems and structured REST API architecture  
-- Improved performance, scalability, and system reliability in production environments  
-- Contributed to architecture decisions and product development strategy  
-- Optimized workflows and strengthened overall system design  
+End-to-End SaaS Delivery: Architected and deployed full-stack features, ensuring tight integration between frontend, backend, and database layers.
 
+Security & Architecture: Implemented secure authentication and structured REST API architectures to handle complex data flows safely.
+
+Performance Optimization: Improved system reliability and scalability in live production environments, focusing on long-term maintainability.
 ---
 
 ### Full Stack Developer — Freelance / Personal Clients  
-Feb 2023 — Feb 2025
+Jan 2023 — Dec 2023
 
 - Delivered 10+ full-stack applications from concept to deployment  
-- Designed and developed scalable systems based on real-world requirements  
-- Managed complete development lifecycle independently  
-- Collaborated directly with clients to define and execute solutions  
-- Improved usability, performance, and product quality  
+
 
 ---
 
@@ -127,12 +121,14 @@ AI Tools: Copilot, Cursor
 
 ---
 
-## 🎯 Focus
+## 🎯 Engineering Focus
+I don't just build demo applications; I build systems that work under real conditions. My focus is always on:
 
-- Building real-world SaaS products (not demo applications)  
-- Designing scalable and maintainable system architecture  
-- Implementing secure authentication and API systems  
-- Optimizing performance and user experience  
+Designing maintainable system architectures.
+
+Implementing high-security standards for auth and payments.
+
+Delivering a "wow" factor through polished, intuitive user interfaces.
 
 ---
 
@@ -142,14 +138,4 @@ AI Tools: Copilot, Cursor
 ## [GitHub](https://github.com/Dimson7777)
 ## [Email](dimibukejlovic@icloud.com)
 ---
-
-## 👨‍💻 About
-
-Full Stack Engineer focused on designing, developing, and delivering production-level SaaS applications.
-
-I consistently analyze problems, evaluate solutions, and implement efficient systems that perform in real-world environments. I enjoy solving complex challenges, improving existing architectures, and transforming ideas into scalable, reliable products.
-
-I am motivated by building systems that work under real conditions — not just demos — and continuously improving performance, structure, and user experience.
-
-Open to remote opportunities.
 
