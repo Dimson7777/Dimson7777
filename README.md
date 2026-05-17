@@ -134,7 +134,7 @@ The product solves a real problem for developers: explaining technical work clea
 
 - Implemented isolated content state stores and export workflows, enabling structured data mapping without relying on heavy external runtime dependencies.
   
-**Stack:** React, TypeScript, Tailwind CSS, Vercel
+**Stack:** TypeScript, Next.js, Node.js, AI Workflows, Radix UI
 
 ---
 
@@ -172,7 +172,7 @@ The main technical challenge was creating a smooth collaboration experience wher
 
 - Optimized collaborative editing behavior using Redis-backed state distribution, enabling rapid synchronization without application frame drops.
 
-**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
+**Stack:** TypeScript, Node.js, WebSockets, Redis, React, Redux Toolkit
 
 ---
 
@@ -191,7 +191,7 @@ The goal was to create a scalable developer community experience with clean inte
 
 - Managed hydration strategies for high-activity feeds and session streams, ensuring stable performance during continuous production-level updates.
 
-**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
+**Stack:** React, Next.js, Redux Toolkit, Tailwind CSS, Radix UI
 
 ---
 
