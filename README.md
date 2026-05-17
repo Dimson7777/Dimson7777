@@ -312,4 +312,4 @@ I am especially interested in products where frontend, backend, data structure, 
 
 ---
 
-**Full-stack architecture | Product systems | Secure APIs | Stripe billing | Supabase/PostgreSQL | Scalable web applications**
+
