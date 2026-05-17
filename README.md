@@ -254,26 +254,26 @@ The focus was on building a clean commerce experience with reliable state manage
 
 ## 🛠 Technical Skills
 
-### Frontend
-React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Responsive Design, Mobile-First Design, Component Architecture, UI Systems, Design Systems, State Management, Forms, Routing, Protected Routes, Dashboard UI, Accessibility, Performance Optimization
+### Languages
+TypeScript, JavaScript, SQL, PostgreSQL, Bash Shell Scripting.
 
-### Backend
-Node.js, Express.js, REST APIs, API Design, Server-Side Logic, Authentication, Authorization, RBAC, Session Management, Protected API Boundaries, Error Handling, Backend Validation, Webhooks, Secure Data Flow
+### Backend & Distributed Systems
+Node.js, Express, Laravel, RESTful API Design, GraphQL, Redis, WebSockets, Message Queues, BullMQ, Database Architecture, Connection Pooling, Query Optimization, Advanced Indexing, Prisma, Eloquent.
 
-### Databases & Data Architecture
-Supabase, PostgreSQL, Relational Data Modeling, Database-Backed Features, User Data Isolation, Workspace Data Models, Payment-State Storage, Query Structure, Data Flow Design, Row-Level Security Concepts
+### Frontend Engineering & Premium UI
+React, Next.js, Redux Toolkit, Component-Driven Architecture, Lifecycle Optimization, Tailwind CSS, Radix UI, UI Primitives, State Propagation, Server-Side Rendering, Client-Side Hydration, Core Web Vitals.
 
-### Payments & Product Systems
-Stripe, Stripe Checkout, Subscriptions, Billing Portals, Plan Gating, Free/Pro Access Logic, Subscription State Handling, Invoicing Logic, Payment Flow UX, Billing Dashboards, Financial Workflow Design
+### Cloud, DevOps & Infrastructure
+Docker, Docker Compose, AWS, GitHub Actions, CI/CD Pipelines, Edge Runtime, Serverless Functions, Vercel, Monorepos, Turborepo, Linux System Administration, Senior Git Workflows.
 
-### Product Engineering
-Full-Stack Architecture, SaaS Architecture, Multi-Tenant Systems, Dashboard Design, Admin Workflows, User Roles, Collaboration Systems, Real-Time Product Flows, AI-Assisted Workflows, Developer Tools, E-commerce Flows, Production Polish, Product Thinking
+### Security & Engineering Excellence
+Authentication, Session Management, OAuth2, JWT, Granular RBAC, Multi-Tenant Isolation Boundaries, Automated Testing, Jest, Vitest, Cypress, Test-Driven Development, AI Workflow Automation.
 
 ### DevOps & Delivery
 Git, GitHub, Vercel, Netlify, Environment Variables, Deployment Workflows, CI/CD Concepts, Release Readiness, QA Checks, Debugging, Code Review, Version Control, Documentation
 
 ### AI-Assisted Development
-GitHub Copilot, Cursor, ChatGPT, AI-Assisted Debugging, Prompt Engineering, AI Workflow Design, Code Refactoring, Product Ideation, Technical Writing, Developer Productivity Systems
+GitHub Copilot, Cursor, ChatGPT, AI-Assisted Debugging, AI Workflow Design, Code Refactoring, Product Ideation, Technical Writing, Developer Productivity Systems
 
 ---
 
