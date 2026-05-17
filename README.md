@@ -36,11 +36,6 @@ At TokenFlow, I work on full-stack product architecture across frontend, backend
 
 **Key impact:**
 
-- Architected full-stack features across React, TypeScript, Node.js/Express, and Supabase/PostgreSQL
-- Designed secure authentication, RBAC, protected routes, and user-level access control
-- Improved frontend-backend data flow, system reliability, and release readiness
-- Contributed to architecture decisions, product structure, and scalable system design
-- Built reusable patterns that make future development faster, safer, and easier to maintain
 
 ---
 
@@ -53,11 +48,7 @@ The main value of this work was improving consistency, reducing friction between
 
 **Key impact:**
 
-- Optimized API integration layers and frontend/backend communication
-- Improved responsive component architecture for stronger cross-device consistency
-- Designed clearer loading states, error states, and interaction patterns
-- Reduced workflow bottlenecks by improving structure around client-facing features
-- Strengthened platform reliability through cleaner data flow and better product organization
+
 
 ---
 
@@ -70,11 +61,7 @@ The focus was on building complete products that solve real workflow problems â€
 
 **Key impact:**
 
-- Delivered 10+ full-stack applications from idea to deployed product
-- Built dashboards, authentication systems, REST APIs, billing flows, and database-backed features
-- Managed the full development lifecycle independently from technical scope to production handoff
-- Improved usability, responsiveness, performance, and overall product quality
-- Established repeatable delivery standards using Git, GitHub, QA checks, reusable components, and deployment documentation
+
 
 ---
 
