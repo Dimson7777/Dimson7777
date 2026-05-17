@@ -128,12 +128,12 @@ The product solves a real problem for developers: explaining technical work clea
 
 **Architecture & product value:**
 
-- Built structured workflows for turning raw project notes into polished career content
-- Designed logic for extracting technical depth, decisions, and impact from minimal input
-- Created recruiter-facing output formats for CV bullets, LinkedIn summaries, and interviews
-- Focused on clean UX, fast iteration, and practical developer outcomes
-- Delivered a polished product experience with strong usability and clarity
+- Engineered an AI-assisted workspace architecture that transforms raw technical inputs into structured recruiter-facing narratives and professional content systems.
 
+- Built repeatable validation-friendly prompt pipelines and deterministic text generation states to maintain consistent output quality across generated content.
+
+- Implemented isolated content state stores and export workflows, enabling structured data mapping without relying on heavy external runtime dependencies.
+- 
 **Stack:** React, TypeScript, Tailwind CSS, Vercel
 
 ---
@@ -185,11 +185,11 @@ The goal was to create a scalable developer community experience with clean inte
 
 **Architecture & product value:**
 
-- Built authentication and session management system
-- Designed social features including posts, comments, follows, and feed interactions
-- Structured scalable feed architecture with personalized user flows
-- Created reusable UI patterns for profiles, discovery, and engagement
-- Focused on performance, responsiveness, and clean product navigation
+- Developed a highly responsive developer platform leveraging reusable UI primitives and stable data boundaries to maintain a fluid cross-device experience.
+
+- Optimized global state propagation patterns and component lifecycle rendering to minimize client-side main-thread blocking during rapid user interactions.
+
+- Managed hydration strategies for high-activity feeds and session streams, ensuring stable performance during continuous production-level updates.
 
 **Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
 
