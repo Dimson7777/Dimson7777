@@ -11,19 +11,18 @@ My strength is not only creating clean interfaces, but building complete systems
 
 ## 🚀 Engineering Focus
 
-I work across the full product stack — from user-facing interfaces to backend logic, database structure, API design, billing workflows, and deployment.
+I engineer full-stack systems with a strong focus on scalable architecture, secure data boundaries, performance, and production reliability across modern frontend and backend environments.
 
 My focus is on building systems that are:
 
-- Scalable enough to grow with the product
-- Secure across authentication, authorization, and user access
-- Clear in frontend/backend communication
-- Reliable in payments, subscriptions, data flow, and user state
-- Maintainable for future development
-- Fast, responsive, and polished across devices
-- Built around real product value, not just demo functionality
-
-I have experience building SaaS platforms, developer tools, dashboards, collaboration systems, AI-assisted workflows, e-commerce flows, billing systems, and portfolio/product presentation platforms.
+- Scalable across users, data models, and product growth
+- Secure across authentication, authorization, sessions, and user access
+- Reliable across frontend/backend communication and API boundaries
+- Fast through optimized queries, indexing, caching, and low-latency data-flow design
+- Maintainable through clean architecture, reusable components, testing, and documentation
+- Production-ready through debugging, QA, deployment workflows, and release discipline
+  
+My work spans React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Supabase, authentication, RBAC, API design, distributed data flows, CI/CD pipelines, automated testing, and debugging complex production issues.
 
 ---
 
