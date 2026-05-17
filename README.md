@@ -133,7 +133,7 @@ The product solves a real problem for developers: explaining technical work clea
 - Built repeatable validation-friendly prompt pipelines and deterministic text generation states to maintain consistent output quality across generated content.
 
 - Implemented isolated content state stores and export workflows, enabling structured data mapping without relying on heavy external runtime dependencies.
-- 
+  
 **Stack:** React, TypeScript, Tailwind CSS, Vercel
 
 ---
