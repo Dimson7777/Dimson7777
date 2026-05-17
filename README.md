@@ -34,7 +34,8 @@ I have experience building SaaS platforms, developer tools, dashboards, collabor
 
 At TokenFlow, I work across frontend, backend, and database layers, building secure application flows, scalable feature systems, reliable API boundaries, and production-ready product infrastructure.
 
-**Key impact:** Designed and implemented a scalable multi-tier architecture using Node.js/Express and PostgreSQL, introducing connection pooling and optimized indexing to support concurrent data streams and 10M+ database rows with sub-second query execution.
+**Key impact:** 
+Designed and implemented a scalable multi-tier architecture using Node.js/Express and PostgreSQL, introducing connection pooling and optimized indexing to support concurrent data streams and 10M+ database rows with sub-second query execution.
 
 Engineered robust API boundaries, RBAC, and secure token-based authentication workflows, reducing unauthorized access attempts and improving data-flow reliability across system boundaries.
 
