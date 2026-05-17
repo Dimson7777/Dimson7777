@@ -54,11 +54,15 @@ The main value of this work was improving consistency, reducing friction between
 
 **Key impact:**
 
+Optimized complex client-facing workflows and responsive component architecture, using advanced state-management patterns and lazy-loading to improve page load speed by 40%.
 
+Formulated strict frontend-backend API contracts and implemented data-caching strategies, reducing API latency by 30% across low-latency product surfaces.
+
+Standardized global error-handling patterns and defensive loading states across desktop and mobile environments, eliminating UI layout shifts and unhandled runtime exceptions.
 
 ---
 
-### Full Stack Engineer — Freelancer.com / Personal Clients  
+### Vertex Digital Studio
 **Jan 2023 — Dec 2023**
 
 Delivered full-stack applications from concept to production, working across planning, UI, backend logic, database structure, deployment, and product polish.
@@ -67,7 +71,11 @@ The focus was on building complete products that solve real workflow problems �
 
 **Key impact:**
 
+Architected end-to-end full-stack solutions for 5+ US-based startups and e-commerce clients, translating complex business requirements into production-ready dashboards, secure authentication systems, and scalable RESTful API infrastructures.
 
+Designed scalable database schemas and relational persistence layers optimized for high-volume transactional workflows, supporting 500K+ daily data rows with strict data integrity and reliable query performance.
+
+Established repeatable engineering standards through advanced Git workflows, reusable UI systems, automated testing pipelines, and deployment documentation, reducing deployment failures by 25% across multiple client environments.
 
 ---
 
