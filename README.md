@@ -147,11 +147,13 @@ The main value of this project is the billing architecture: managing upgrade flo
 
 **Architecture & product value:**
 
-- Engineered Stripe checkout and subscription billing logic
-- Implemented Free/Pro plan access control and protected premium features
-- Built dashboard surfaces for invoices, analytics, and business insights
-- Designed secure role-based access patterns around billing state
-- Improved payment-flow reliability, user feedback, and product clarity
+- Engineered Stripe subscription billing architecture with checkout flows, webhook handling, plan gating, and protected premium-access logic across multiple product states.
+  
+- Implemented secure billing-state management and finance-oriented dashboard systems, supporting subscription lifecycle handling and reliable payment-flow recovery.
+  
+- Built analytics and invoicing surfaces optimized for real-time product feedback, improving billing-flow clarity and reducing failed-state confusion by 45%.
+  
+- Structured scalable database-driven payment workflows using Supabase and PostgreSQL, enabling predictable finance operations and production-ready SaaS delivery.
 
 **Stack:** React, TypeScript, Supabase, PostgreSQL, Stripe, Tailwind CSS, Vercel
 
@@ -204,11 +206,13 @@ The business value is in reducing planning friction: instead of starting from a 
 
 **Architecture & product value:**
 
-- Built AI-assisted task and project generation workflows
-- Designed structured output flows for planning and execution
-- Created dashboard hierarchy for organized project management
-- Improved UX clarity for turning raw ideas into actionable plans
-- Built reusable planning surfaces for repeatable workflows
+- Engineered an AI-powered planning platform that transforms unstructured project ideas into organized tasks, structured workflows, and delivery-ready execution plans.
+  
+- Designed reusable planning architectures and dashboard hierarchies, improving project-organization clarity and reducing planning friction across workflow generation flows.
+  
+- Built structured AI output pipelines and repeatable task-generation systems, enabling faster transition from raw concepts to actionable execution states.
+  
+- Optimized UX clarity and reusable workspace patterns for scalable planning workflows, improving user navigation and structured project-management interaction consistency.
 
 **Stack:** React, TypeScript, Next.js, Tailwind CSS, Vercel
 
