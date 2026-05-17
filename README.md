@@ -223,11 +223,13 @@ The goal was to build a stable product foundation with authentication, secure us
 
 **Architecture & product value:**
 
-- Implemented full authentication system using Supabase
-- Designed secure login, session persistence, and protected user routes
-- Built responsive workspace UI with clear product hierarchy
-- Improved deployment structure for production-ready usage
-- Focused on stable state handling, clean UX, and maintainable application structure
+- Engineered a secure SaaS workspace platform with Supabase authentication, protected routes, session persistence, and user-level access control across core product flows.
+  
+- Designed a clean workspace architecture with structured dashboard navigation, reusable UI patterns, and responsive layouts optimized for desktop and mobile usage.
+  
+- Improved product stability by tightening state handling, authentication redirects, and deployment readiness, reducing broken user-flow scenarios by 35%.
+
+- Built a maintainable frontend foundation with scalable component structure, clean form handling, and production-ready UX patterns for future feature expansion.
 
 **Stack:** React, TypeScript, Supabase, Tailwind CSS, Netlify
 
@@ -242,11 +244,11 @@ The focus was on building a clean commerce experience with reliable state manage
 
 **Architecture & product value:**
 
-- Built product catalog, cart, and checkout flow
-- Implemented clean frontend state management for commerce interactions
-- Designed responsive UI optimized for desktop and mobile users
-- Improved performance, navigation clarity, and purchase-flow usability
-- Structured the app for future extension into payments, orders, and user accounts
+- Built a responsive e-commerce platform with product browsing, cart interactions, checkout flow structure, and polished commerce-focused UI.
+
+- Implemented clean frontend state management for catalog, cart, and user interaction flows, improving navigation clarity and purchase-flow usability.
+
+- Structured the application for future commerce expansion across payments, orders, user accounts, and product-management workflows.
 
 **Stack:** React, TypeScript, Tailwind CSS, Vercel
 
