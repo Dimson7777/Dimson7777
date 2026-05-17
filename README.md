@@ -38,7 +38,10 @@ At TokenFlow, I work across frontend, backend, and database layers, building sec
 
 Engineered robust API boundaries, RBAC, and secure token-based authentication workflows, reducing unauthorized access attempts and improving data-flow reliability across system boundaries.
 
-Established rigorous coding standards and automated linting/testing pipelines using Jest and Cypress, ensuring 100% release readiness and predictable delivery for high-performance platform surfaces.
+Established rigorous engineering standards and automated testing pipelines using Jest and Cypress.
+
+Ensured reliable release cycles, predictable deployments, and production-grade stability across high-performance platform surfaces.
+
 ---
 
 ### Full Stack Engineer — ScaleRoad LLC  
