@@ -32,15 +32,13 @@ I have experience building SaaS platforms, developer tools, dashboards, collabor
 ### Full Stack Engineer — TokenFlow  
 **Jan 2025 — Present**
 
-At TokenFlow, I work on full-stack product architecture across frontend, backend, and database layers. My focus is on building secure application flows, scalable feature systems, reliable API boundaries, and production-ready product infrastructure.
+At TokenFlow, I work across frontend, backend, and database layers, building secure application flows, scalable feature systems, reliable API boundaries, and production-ready product infrastructure.
 
-**Key impact:**
-Designed and implemented a scalable multi-tier architecture using Node.js/Express and PostgreSQL, introducing connection pooling and optimized indexing to support concurrent data streams and 10M+ database rows with sub-second query execution.  
+**Key impact:** Designed and implemented a scalable multi-tier architecture using Node.js/Express and PostgreSQL, introducing connection pooling and optimized indexing to support concurrent data streams and 10M+ database rows with sub-second query execution.
 
-Engineered robust API boundaries, RBAC and secure token-based authentication workflows, reducing unauthorized access attempts and enhancing data-flow reliability across system boundaries.  
+Engineered robust API boundaries, RBAC, and secure token-based authentication workflows, reducing unauthorized access attempts and improving data-flow reliability across system boundaries.
 
-Established rigorous coding standards and automated linting/testing pipelines using Jest and Cypress, ensuring 100% release readiness and predictable code delivery for high-performance platform surfaces.
-
+Established rigorous coding standards and automated linting/testing pipelines using Jest and Cypress, ensuring 100% release readiness and predictable delivery for high-performance platform surfaces.
 ---
 
 ### Full Stack Engineer — ScaleRoad LLC  
