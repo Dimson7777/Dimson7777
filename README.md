@@ -166,11 +166,11 @@ The main technical challenge was creating a smooth collaboration experience wher
 
 **Architecture & product value:**
 
-- Built real-time collaboration flows with shared workspace logic
-- Implemented instant updates across connected users
-- Designed frontend/backend communication for reliable state handling
-- Optimized the UI for low-latency interaction and responsive updates
-- Structured the product around concurrent usage and scalable collaboration patterns
+- Engineered a low-latency synchronization engine for shared workspace boards, coordinating realtime frontend-backend state through persistent WebSocket connections.
+
+- Designed conflict-resistant state-handling algorithms, maintaining UI consistency and smooth visual feedback under high-concurrency event bursts.
+
+- Optimized collaborative editing behavior using Redis-backed state distribution, enabling rapid synchronization without application frame drops.
 
 **Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
 
