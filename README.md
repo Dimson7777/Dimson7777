@@ -90,11 +90,11 @@ The main challenge was designing a product structure that supports multiple team
 
 **Architecture & product value:**
 
-- Built multi-tenant workspace logic with account-level separation
-- Implemented secure authentication, session handling, and role-based access control
-- Designed Stripe-powered subscription flows with plan gating
-- Structured dashboard flows for team collaboration and business operations
-- Created a scalable SaaS foundation ready for future premium modules
+- Architected a high-fidelity monitoring console featuring secure multi-tenant isolation boundaries, hierarchical workspace logic, and granular role-based access control (RBAC).
+
+- Structured optimized database schemas and relational data boundaries to eliminate cross-tenant data leakage risks across concurrent organization environments.
+
+- Implemented heavy server-side caching and streaming data boundaries, delivering sub-second rendering overhead for complex, data-heavy infrastructure layouts.
 
 **Stack:** React, TypeScript, Supabase, Stripe, Tailwind CSS, Vercel
 
