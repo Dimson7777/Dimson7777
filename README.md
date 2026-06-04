@@ -71,11 +71,11 @@ The main focus was improving frontend performance, simplifying application state
 
 **Key impact:**
 
-• High-Throughput Backend Engineering: Designed and deployed scalable multi-tier architecture using Node.js/Express and PostgreSQL, optimizing database performance through connection pooling and advanced indexing to maintain sub-second latency across large datasets.
+High-Throughput Backend Engineering: Designed and deployed scalable multi-tier architecture using Node.js/Express and PostgreSQL, optimizing database performance through connection pooling and advanced indexing to maintain sub-second latency across large datasets.
 
-• Enterprise Security & Access Management: Engineered secure API architectures, token-based authentication, and granular permission systems, minimizing unauthorized access vectors and stabilizing end-to-end data pipelines.
+Enterprise Security & Access Management: Engineered secure API architectures, token-based authentication, and granular permission systems, minimizing unauthorized access vectors and stabilizing end-to-end data pipelines.
 
-• Testing Infrastructure & CI/CD: Established rigorous development standards by implementing automated linting and testing suites with Jest and Cypress, streamlining deployment pipelines for predictable and resilient feature releases.
+Testing Infrastructure & CI/CD: Established rigorous development standards by implementing automated linting and testing suites with Jest and Cypress, streamlining deployment pipelines for predictable and resilient feature releases.
 
 ---
 
