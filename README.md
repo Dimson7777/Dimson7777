@@ -28,7 +28,7 @@ My work spans React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Supabase
 
 ## 💼 Experience
 
-### Full Stack Engineer — TokenFlow  
+### Senior Full Stack Engineer — TokenFlow  
 **Jan 2025 — Present**
 
 At TokenFlow, I work across frontend, backend, and database layers, building secure application flows, scalable feature systems, reliable API boundaries, and production-ready product infrastructure.
@@ -45,7 +45,7 @@ Ensured reliable release cycles, predictable deployments, and production-grade s
 ---
 
 ### Full Stack Engineer — ScaleRoad LLC  
-**Dec 2023 — Jan 2025**
+**Dec 2022 — Jan 2025**
 
 At ScaleRoad LLC, I worked on improving full-stack product workflows, API integration layers, responsive frontend systems, and client-facing application flows.
 
@@ -61,8 +61,27 @@ Standardized global error-handling patterns and defensive loading states across 
 
 ---
 
+
+### Full Stack Engineer — Northstar Technologies
+**Sep 2021 – Nov 2022**
+
+At Northstar Technologies, I worked on full-stack application delivery, legacy frontend improvements, and clean UI implementation across internal and client-facing platforms.
+
+The main focus was improving frontend performance, simplifying application state, and delivering polished interfaces with strong engineering standards.
+
+**Key impact:**
+
+• High-Throughput Backend Engineering: Designed and deployed scalable multi-tier architecture using Node.js/Express and PostgreSQL, optimizing database performance through connection pooling and advanced indexing to maintain sub-second latency across large datasets.
+
+• Enterprise Security & Access Management: Engineered secure API architectures, token-based authentication, and granular permission systems, minimizing unauthorized access vectors and stabilizing end-to-end data pipelines.
+
+• Testing Infrastructure & CI/CD: Established rigorous development standards by implementing automated linting and testing suites with Jest and Cypress, streamlining deployment pipelines for predictable and resilient feature releases.
+
+---
+
+
 ### Vertex Digital Studio
-**Jan 2023 — Dec 2023**
+**Mar 2020 — Aug 2021**
 
 Delivered full-stack applications from concept to production, working across planning, UI, backend logic, database structure, deployment, and product polish.
 
