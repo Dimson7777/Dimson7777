@@ -53,7 +53,7 @@ The main value of this work was improving consistency, reducing friction between
 
 **Key impact:**
 
-Optimized complex client-facing workflows and responsive component architecture, using advanced state-management patterns and lazy-loading to improve page load speed by 40%.
+Streamlined complex client-facing workflows and responsive component architecture, leveraging advanced state-management patterns and lazy-loading to reduce First Contentful Paint (FCP) by 35%
 
 Formulated strict frontend-backend API contracts and implemented data-caching strategies, reducing API latency by 30% across low-latency product surfaces.
 
