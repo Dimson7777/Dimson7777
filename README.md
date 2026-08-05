@@ -155,7 +155,25 @@ The product solves a real problem for developers: explaining technical work clea
 **Stack:** TypeScript, Next.js, Node.js, AI Workflows, Radix UI
 
 ---
+### 🔗 3. LogLens API — Production Log Intelligence Platform
 
+**Live:** https://loglens-api-production.up.railway.app/docs  
+**GitHub:** https://github.com/Dimson7777/loglens-api
+
+LogLens API is a production-grade backend platform for log ingestion, error grouping, background processing, and incident analysis.
+
+The main challenge was designing a reliable API architecture that supports authentication, asynchronous database access, Redis-backed workflows, production migrations, and secure deployment without creating fragile infrastructure.
+
+**Architecture & product value:**
+
+- Built a scalable FastAPI backend with PostgreSQL, Redis, SQLAlchemy, Alembic migrations, and Docker-based deployment.
+- Implemented JWT and OAuth2 authentication with registration, login, refresh tokens, logout, role-based access, and protected API routes.
+- Designed health and readiness checks that independently verify application, database, and Redis availability.
+- Added automated testing, linting, type checking, dependency auditing, Trivy image scanning, Bandit security checks, and GitHub Actions CI.
+- Deployed the full production stack on Railway with managed PostgreSQL, Redis, automatic migrations, environment-based configuration, and public Swagger documentation.
+- Added log ingestion, filtering, error grouping, background processing, rate limiting, structured logging, and trace IDs for production observability.
+
+**Stack:** Python, FastAPI, PostgreSQL, Redis, SQLAlchemy, Alembic, Docker, OAuth2, JWT, Pytest, GitHub Actions, Railway
 ### 4. SaaS Invoicing Platform — Billing & Finance SaaS  
 **Live:** https://invoiceflow-saas-mu.vercel.app/
 
